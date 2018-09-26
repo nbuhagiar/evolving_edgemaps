@@ -7,6 +7,7 @@ var music = {
             "name": "The Beatles",
             "abstract": "The Beatles were an English rock band, formed in Liverpool\nin 1960, and one of the most commercially successful and\ncritically acclaimed acts in the history of popular music.\nFrom 1962, the group consisted of John Lennon (rhythm\nguitar, vocals), Paul McCartney (bass guitar, vocals),\nGeorge Harrison (lead guitar, vocals) and Ringo Starr\n(drums, vocals). Rooted in skiffle and 1950s rock and roll,\nthe group later worked in many genres ranging from pop\nballads to psychedelic rock, often...",
             "birthyear": "1957",
+            "activeyear": "1962",
             "am": "the-beatles-p3644",
             "name_short": "BEATLES",
             "ints": {
@@ -108,6 +109,7 @@ var music = {
             "name": "The Rolling Stones",
             "abstract": "The Rolling Stones are an English rock band formed in London\nin April 1962 by guitarist and harmonica player Brian Jones,\npianist Ian Stewart, vocalist Mick Jagger and guitarist\nKeith Richards. Bassist Bill Wyman and drummer Charlie Watts\ncompleted the early lineup. American R&B and blues cover\nsongs dominated The Rolling Stones' early material, but from\nthe start they have included rock and roll in their\nrepertoire. The Rolling Stones are credited for raising the\ninternational regard for…",
             "birthyear": "1962",
+            "activeyear": "1963",
             "am": "the-rolling-stones-p5298",
             "name_short": "ROLLING STONES",
             "ints": {
@@ -193,6 +195,7 @@ var music = {
             "name": "Jimi Hendrix",
             "abstract": "James Marshall \"Jimi\" Hendrix (born Johnny Allen Hendrix,\nNovember 27, 1942 \u2013 September 18, 1970) was an American\nguitarist and singer-songwriter. He is widely considered to\nbe the greatest electric guitarist in musical history, and\none of the most influential musicians of his era across a\nrange of genres.\nAfter initial success in Europe with his group, he achieved\nfame in the United States following his 1967 performance at\nthe Monterey Pop Festival. Later, Hendrix headlined the\niconic 1969...",
             "birthyear": "1966",
+            "activeyear": "1966",
             "am": "jimi-hendrix-p85934",
             "name_short": "HENDRIX",
             "ints": {
@@ -271,6 +274,7 @@ var music = {
             "name": "Chuck Berry",
             "abstract": "Charles Edward Anderson \"Chuck\" Berry (born October 18,\n1926) is a guitarist, singer, and songwriter, and considered\none of the pioneers of rock and roll music. With songs such\nas \"Maybellene\" (1955), \"Roll Over Beethoven\" (1956), \"Rock\nand Roll Music\" (1957) and \"Johnny B. Goode\" (1958), Chuck\nBerry refined and developed rhythm and blues into the major\nelements that made rock and roll distinctive, with lyrics\nfocusing on teen life and consumerism and utilizing guitar\nsolos and showmanship...",
             "birthyear": "1926",
+            "activeyear": "1956",
             "am": "chuck-berry-p3664",
             "name_short": "BERRY",
             "ints": {
@@ -329,6 +333,7 @@ var music = {
             "name": "David Bowie",
             "abstract": "David Bowie ( \/\u02c8bo\u028a.i\u02d0\/ BOH-ee; born David Robert Jones\non 8 January 1947) is an English musician, actor, record\nproducer and arranger. A major figure for five decades in\nthe world of popular music, Bowie is widely regarded as an\ninnovator, particularly for his work in the 1970s, and is\nknown for his distinctive voice and the intellectual depth\nof his work.\nAlthough he released an album (David Bowie) and several\nsingles earlier, Bowie first caught the eye and ear of the\npublic in July 1969,...",
             "birthyear": "1964",
+            "activeyear": "1966",
             "am": "david-bowie-p3753",
             "name_short": "BOWIE",
             "ints": {
@@ -406,6 +411,7 @@ var music = {
             "name": "The Stooges",
             "abstract": "The Stooges (also known as Iggy and The Stooges) is an\nAmerican rock band from Ann Arbor, Michigan first active\nfrom 1967 to 1974, and later reformed in 2003. Although they\nsold few records in their original incarnation and often\nperformed for indifferent or hostile audiences, the Stooges\nare widely regarded as instrumental in the rise of punk\nrock, as well as influential to alternative rock, heavy\nmetal and rock music at large. The Stooges were inducted\ninto the Rock and Roll Hall of Fame...",
             "birthyear": "1969",
+            "activeyear": "1969",
             "am": "the-stooges-p143693",
             "name_short": "STOOGES",
             "ints": {
@@ -474,6 +480,7 @@ var music = {
             "name": "The Kinks",
             "abstract": "The Kinks were an English rock band formed in Muswell Hill,\nNorth London, by brothers Ray and Dave Davies in 1964.\nCategorized in the United States as a British Invasion band,\nThe Kinks are recognized as one of the most important and\ninfluential rock acts of the era. Their music was influenced\nby a wide range of genres, including rhythm and blues,\nBritish music hall, folk, and country. Ray Davies (lead\nvocals, rhythm guitar) and Dave Davies (lead guitar, vocals)\nremained members throughout...",
             "birthyear": "1964",
+            "activeyear": "1964",
             "am": "the-kinks-p4690",
             "name_short": "KINKS",
             "ints": {
@@ -534,7 +541,8 @@ var music = {
             "img_guid": "9202a8c04000641f800000000a9e8adb",
             "name": "The Who",
             "abstract": "The Who are an English rock band formed in 1964 by Roger\nDaltrey (vocals), Pete Townshend (guitar), John Entwistle\n(bass) and Keith Moon (drums). They became known for\nenergetic live performances which often included instrument\ndestruction. The Who have sold about 100 million records,\nand have charted 27 top forty singles in the United Kingdom\nand United States, as well as 17 top ten albums, with 18\nGold, 12 Platinum and 5 Multi-Platinum album awards in the\nUnited States alone.\nThe Who rose...",
-            "birthyear": "1964",
+            "birthyear": "1965",
+            "activeyear": "1965",
             "am": "the-who-p5822",
             "name_short": "WHO",
             "ints": {
@@ -600,6 +608,7 @@ var music = {
             "name": "Hank Williams",
             "abstract": "Hank Williams (September 17, 1923 \u2013 January 1, 1953), born\nHiram King Williams, was an American singer-songwriter and\nmusician regarded as one of the most important country music\nartists of all time. In the short period from 1947 until his\ndeath, at 29, on the first day of 1953, Williams recorded 35\nsingles (five of which were released posthumously) that\nwould place in the Top 10 of the Billboard Country & Western\nBest Sellers chart, including eleven that ranked number one.\nHis father,...",
             "birthyear": "1923",
+            "activeyear": "1947",
             "am": "hank-williams-p138231",
             "name_short": "WILLIAMS",
             "ints": {
@@ -653,6 +662,7 @@ var music = {
             "name": "Elvis Presley",
             "abstract": "Elvis Aaron Presley (January 8, 1935\u00a0\u2013 August 16, 1977)\nwas one of the most popular American singers of the 20th\ncentury. A cultural icon, he is widely known by the single\nname Elvis. He is often referred to as the \"King of Rock and\nRoll\" or simply \"the King\".\nBorn in Tupelo, Mississippi, Presley moved to Memphis,\nTennessee, with his family at the age of 13. He began his\ncareer there in 1954 when Sun Records owner Sam Phillips,\neager to bring the sound of African American music to a\nwider...",
             "birthyear": "1935",
+            "activeyear": "1954",
             "am": "elvis-presley-p5175",
             "name_short": "PRESLEY",
             "ints": {
@@ -707,6 +717,7 @@ var music = {
             "name": "Led Zeppelin",
             "abstract": "Led Zeppelin were an English rock band formed in 1968 that\nconsisted of guitarist Jimmy Page, singer Robert Plant,\ndrummer John Bonham and bassist John Paul Jones. With their\nheavy, guitar-driven blues-rock sound, Led Zeppelin are\nregularly cited as one of the progenitors of heavy metal and\nhard rock, even though the band's individualistic style drew\nfrom many sources and transcends any one music genre. Led\nZeppelin did not release songs from their albums as singles\nin the United Kingdom, as...",
             "birthyear": "1968",
+            "activeyear": "1969",
             "am": "led-zeppelin-p4739",
             "name_short": "LED ZEPPELIN",
             "ints": {
@@ -760,6 +771,7 @@ var music = {
             "name": "Ramones",
             "abstract": "The Ramones were an American rock band that formed in Forest\nHills, Queens, New York in 1974, often cited as the first\npunk rock group. Despite achieving only limited commercial\nsuccess, the band was a major influence on the punk rock\nmovement both in the United States and the United Kingdom.\nAll of the band members adopted pseudonyms ending with the\nsurname \"Ramone\", though none of them were related. They\nperformed 2,263 concerts, touring virtually nonstop for 22\nyears. In 1996, after a...",
             "birthyear": "1974",
+            "activeyear": "1976",
             "am": "ramones-p5223",
             "name_short": "RAMONES",
             "ints": {
@@ -816,6 +828,7 @@ var music = {
             "name": "Roxy Music",
             "abstract": "Roxy Music are an English art rock group formed in November\n1970 by Bryan Ferry, who became the group's lead vocalist\nand chief songwriter, and bassist Graham Simpson. The other\nmembers are Phil Manzanera (guitar), Andy Mackay (saxophone\nand oboe) and Paul Thompson (drums and percussion). Former\nmembers include Brian Eno (synthesizer and \"treatments\"),\nand Eddie Jobson (synthesizer and violin). Although the band\ntook a break from group activities in 1983, they reunited\nfor a concert tour in…",
             "birthyear": "1971",
+            "activeyear": "1972",
             "am": "roxy-music-p108518",
             "name_short": "ROXY MUSIC",
             "ints": {
@@ -874,6 +887,7 @@ var music = {
             "name": "Howlin' Wolf",
             "abstract": "Chester Arthur Burnett (June 10, 1910 \u2013 January 10, 1976),\nbetter known as Howlin' Wolf, was an influential American\nblues singer, guitarist and harmonica player.\nWith a booming voice and looming physical presence, Burnett\nis commonly ranked among the leading performers in electric\nblues; musician and critic Cub Koda declared, \"no one could\nmatch Howlin' Wolf for the singular ability to rock the\nhouse down to the foundation while simultaneously scaring\nits patrons out of its wits.\" A number...",
             "birthyear": "1910",
+            "activeyear": "1951",
             "am": "howlin-wolf-p60993",
             "name_short": "WOLF",
             "ints": {
@@ -918,6 +932,7 @@ var music = {
             "name": "Buddy Holly",
             "abstract": "Charles Hardin Holley (September 7, 1936 \u2013 February 3,\n1959) known professionally as Buddy\u00a0Holly, was an American\nsinger-songwriter and a pioneer of rock and roll. Although\nhis success lasted only a year and a half before his death\nin an airplane crash, Holly is described by critic Bruce\nElder as \"the single most influential creative force in\nearly rock and roll.\" His works and innovations inspired and\ninfluenced contemporary and later musicians, notably The\nBeatles, The Rolling Stones, Bob...",
             "birthyear": "1936",
+            "activeyear": "1956",
             "am": "buddy-holly-p4502",
             "name_short": "HOLLY",
             "ints": {
@@ -963,6 +978,7 @@ var music = {
             "name": "Little Richard",
             "abstract": "Richard Wayne Penniman (born December 5, 1932), known by the\nstage name Little Richard, is an American singer,\nsongwriter, musician, recording artist, and actor,\nconsidered key in the transition from rhythm and blues to\nrock and roll in the 1950s. The Rock and Roll Hall of Fame\nweb site entry on Penniman states that:\nHe claims to be \"the architect of rock and roll\", and\nhistory would seem to bear out Little Richard\u2019s boast.\nMore than any other performer \u2013 save, perhaps, Elvis\nPresley, Little...",
             "birthyear": "1932",
+            "activeyear": "1951",
             "am": "little-richard-p4765",
             "name_short": "RICHARD",
             "ints": {
@@ -1007,6 +1023,7 @@ var music = {
             "name": "Brian Eno",
             "abstract": "Brian Peter George St. John le Baptiste de la Salle Eno\n(born 15 May 1948), commonly shortened to Brian Eno and\npreviously as simply Eno ( \/\u02c8i\u02d0no\u028a\/), is an English\nmusician, composer, record producer, music theorist, singer\nand visual artist, best known as one of the principal\ninnovators of ambient music.\nEno studied at art school, taking inspiration from\nminimalist painting, but he had little musical education or\nplaying experience when he joined the band Roxy Music as\ntheir keyboards and...",
             "birthyear": "1948",
+            "activeyear": "1974",
             "am": "brian-eno-p74178",
             "name_short": "ENO",
             "ints": {
@@ -1057,6 +1074,7 @@ var music = {
             "name": "The Beach Boys",
             "abstract": "The Beach Boys are an American rock band, formed in 1961 in\nHawthorne, California. The group was initially composed of\nbrothers Brian, Dennis and Carl Wilson, their cousin Mike\nLove, and friend Al Jardine. Managed by the Wilsons' father\nMurry, The Beach Boys signed to Capitol Records in 1962. The\nband's early music gained popularity across the United\nStates for its close vocal harmonies and lyrics reflecting a\nSouthern California youth culture of surfing, cars, and\nromance. By the mid 1960s,…",
             "birthyear": "1961",
+            "activeyear": "1961",
             "am": "the-beach-boys-p3640",
             "name_short": "BEACH BOYS",
             "ints": {
@@ -1110,6 +1128,7 @@ var music = {
             "name": "Marc Bolan",
             "abstract": "Marc Bolan (born Mark Feld; 30 September 1947 \u2013 16\nSeptember 1977) was an English singer-songwriter, guitarist\nand poet. He is best known for his work with British rock\nband T. Rex. His music, as well as his highly original sense\nof style and extraordinary stage presence, helped create the\nglam rock era which made him one of the most recognizable\nstars in British rock music.\nBolan grew up in post-war Hackney, East London, the son of\nPhyllis Winifred (n\u00e9e Atkins) and Simeon Feld, a lorry...",
             "birthyear": "1947",
+            "activeyear": "1965",
             "am": "marc-bolan-p26211",
             "name_short": "BOLAN",
             "ints": {
@@ -1161,6 +1180,7 @@ var music = {
             "name": "The Yardbirds",
             "abstract": "The Yardbirds are an English rock band that had a string of\nhits in the mid 1960s, including \"For Your Love\", \"Over\nUnder Sideways Down\" and \"Heart Full of Soul\". The group is\nnotable for having started the careers of three of rock's\nmost famous guitarists: Eric Clapton, Jeff Beck, and Jimmy\nPage, all of whom were in the top fifteen of Rolling Stone's\n100 Top Guitarists list (Clapton as #4, Page as #9, and Beck\nas #14). A blues-based band that broadened its range into\npop and rock, The...",
             "birthyear": "1963",
+            "activeyear": "1964",
             "am": "the-yardbirds-p5888",
             "name_short": "YARDBIRDS",
             "ints": {
@@ -1211,6 +1231,7 @@ var music = {
             "name": "Kraftwerk",
             "abstract": "Kraftwerk (German pronunciation:\u00a0[\u02c8k\u0280aftv\u025b\u0281k]), German\nfor power plant or power station, is an electronic music\nband from D\u00fcsseldorf, Germany. The group was formed by Ralf\nH\u00fctter and Florian Schneider in 1970, and was fronted by\nthem until Schneider's departure in 2008. The signature\nKraftwerk sound combines driving, repetitive rhythms with\ncatchy melodies, mainly following a Western Classical style\nof harmony, with a minimalistic and strictly electronic\ninstrumentation. The group's...",
             "birthyear": "1970",
+            "activeyear": "1970",
             "am": "kraftwerk-p4706",
             "name_short": "KRAFTWERK",
             "ints": {
@@ -1261,6 +1282,7 @@ var music = {
             "name": "New York Dolls",
             "abstract": "The New York Dolls is an American rock band, formed in New\nYork in 1971. In 2004 the band reformed with three of their\noriginal members, two of whom, David Johansen and Sylvain\nSylvain, continue on today and have released three records\nof new material. The original bassist, Arthur Kane, died\nshortly after their first reunion concert.\nThe band's protopunk sound prefigured much of what was to\ncome in the punk rock era; their visual style influenced the\nlook of many new wave and 1980s-era glam…",
             "birthyear": "1971",
+            "activeyear": "1973",
             "am": "new-york-dolls-p5019",
             "name_short": "NEW YORK DOLLS",
             "ints": {
@@ -1313,6 +1335,7 @@ var music = {
             "name": "Sam Cooke",
             "abstract": "Samuel Cook (January 22, 1931 \u2013 December 11, 1964), known\nprofessionally as Sam Cooke, was an African-American gospel,\nR&B, soul, and pop singer, songwriter, and entrepreneur. He\nis considered to be one of the pioneers and founders of soul\nmusic. He is commonly known as the King of Soul for his\nunmatched vocal abilities and influence on the modern world\nof music. His contribution in pioneering Soul music led to\nthe rise of Aretha Franklin, Bobby Womack, Al Green, Curtis\nMayfield, Stevie...",
             "birthyear": "1931",
+            "activeyear": "1957",
             "am": "sam-cooke-p3960",
             "name_short": "COOKE",
             "ints": {
@@ -1354,6 +1377,7 @@ var music = {
             "name": "Bo Diddley",
             "abstract": "Ellas Otha Bates (December 30, 1928 \u2013 June 2, 2008), known\nby his stage name Bo Diddley, was an American rhythm and\nblues vocalist, guitarist, songwriter (usually as Elias\nMcDaniel), and inventor. He was also known as \"The\nOriginator\" because of his key role in the transition from\nthe blues to rock & roll, influencing a host of acts\nincluding Buddy Holly, Jimi Hendrix, The Rolling Stones, The\nVelvet Underground, The Clash, The Yardbirds, and Eric\nClapton. He introduced more insistent,...",
             "birthyear": "1928",
+            "activeyear": "1955",
             "am": "bo-diddley-p57518",
             "name_short": "DIDDLEY",
             "ints": {
@@ -1399,6 +1423,7 @@ var music = {
             "name": "The Doors",
             "abstract": "The Doors were an American rock band formed in 1965 in Los\nAngeles, California, with vocalist Jim Morrison, keyboardist\nRay Manzarek, drummer John Densmore, and guitarist Robby\nKrieger. The band took its name from Aldous Huxley's book\nThe Doors of Perception, the title of which was a reference\nto a William Blake quotation: \"When the doors of perception\nare cleansed, things will appear to man as they truly\nare...infinite.\" They were among the most controversial rock\nacts of the 1960s, due...",
             "birthyear": "1965",
+            "activeyear": "1967",
             "am": "the-doors-p4119",
             "name_short": "DOORS",
             "ints": {
@@ -1442,6 +1467,7 @@ var music = {
             "name": "MC5",
             "abstract": "The MC5 is an American rock band formed in Lincoln Park,\nMichigan and originally active from 1964 to 1972. The\noriginal band line-up consisted of vocalist Rob Tyner,\nguitarists Wayne Kramer and Fred \"Sonic\" Smith, bassist\nMichael Davis, and drummer Dennis Thompson. \"Crystallizing\nthe counterculture movement at its most volatile and\nthreatening\", according to Allmusic critic Stephen Thomas\nErlewine, the MC5's far left political ties and\nanti-establishment lyrics and music positioned them as...",
             "birthyear": "1969",
+            "activeyear": "1967",
             "am": "mc5-p4864",
             "name_short": "MC5",
             "ints": {
@@ -1497,6 +1523,7 @@ var music = {
             "name": "Ray Charles",
             "abstract": "Ray Charles Robinson (September 23, 1930\u00a0\u2013 June 10,\n2004), better known by his shortened stage name Ray Charles,\nwas an American musician. He was a pioneer in the genre of\nsoul music during the 1950s by fusing rhythm and blues,\ngospel, and blues styles into his early recordings with\nAtlantic Records. He also helped racially integrate country\nand pop music during the 1960s with his crossover success on\nABC Records, most notably with his Modern Sounds albums.\nWhile with ABC, Charles became one...",
             "birthyear": "1930",
+            "activeyear": "1950",
             "am": "ray-charles-p3876",
             "name_short": "CHARLES",
             "ints": {
@@ -1547,6 +1574,7 @@ var music = {
             "name": "Television",
             "abstract": "Television is an American rock band, formed in New York City\nin 1973. Although Television have never had more than a cult\naudience in the USA, they have achieved significant\ncommercial success in Europe. Today, they are widely\nregarded as one of the founders of \"punk\" and New Wave.\nTelevision was part of the early 1970s New York underground\nrock scene, along with bands like the Patti Smith Group, The\nRamones, Blondie, Richard Hell and The Voidoids, Talking\nHeads. In contrast to the Ramones'...",
             "birthyear": "1973",
+            "activeyear": "1975",
             "am": "television-p5612",
             "name_short": "TELEVISION",
             "ints": {
@@ -1595,6 +1623,7 @@ var music = {
             "name": "The Clash",
             "abstract": "The Clash were an English punk rock band that formed in 1976\nas part of the original wave of British punk. Along with\npunk, their music incorporated elements of reggae, ska, dub,\nfunk, rap, dance, and rockabilly. For most of their\nrecording career, The Clash consisted of Joe Strummer (lead\nvocals, rhythm guitar), Mick Jones (lead guitar, vocals),\nPaul Simonon (bass guitar, backing vocals, occasional lead\nvocals) and Nicky \"Topper\" Headon (drums, percussion).\nHeadon left the group in 1982,...",
             "birthyear": "1976",
+            "activeyear": "1977",
             "am": "the-clash-p3913",
             "name_short": "CLASH",
             "ints": {
@@ -1642,6 +1671,7 @@ var music = {
             "name": "T-Bone Walker",
             "abstract": "Aaron Thibadeaux \"T-Bone\" Walker (May 28, 1910 \u2014 March 16,\n1975) was a critically acclaimed American blues guitarist,\nsinger, songwriter and multi-instrumentalist who was one of\nthe most influential pioneers and innovators of the jump\nblues and electric blues sound. He is believed by some\nbiographers to be the first musician to perform playing the\nelectric guitar. In September 2003, Rolling Stone ranked him\nat #47 in their list of \"The 100 Greatest Guitarists of All\nTime\".\nT-Bone Walker is...",
             "birthyear": "1910",
+            "activeyear": "1945",
             "am": "t-bone-walker-p27828",
             "name_short": "WALKER",
             "ints": {
@@ -1681,6 +1711,7 @@ var music = {
             "name": "Pink Floyd",
             "abstract": "Pink Floyd were an English rock band who achieved worldwide\nsuccess with their progressive and psychedelic rock music.\nTheir work is marked by the use of philosophical lyrics,\nsonic experimentation, innovative album art, and elaborate\nlive shows. Pink Floyd are one of the most commercially\nsuccessful and influential rock music groups of all time.\nThey have sold over 200\u00a0million albums worldwide, including\n74.5\u00a0million certified units in the United States.\nThe band originally consisted of...",
             "birthyear": "1964",
+            "activeyear": "1965",
             "am": "pink-floyd-p76669",
             "name_short": "PINK FLOYD",
             "ints": {
@@ -1730,6 +1761,7 @@ var music = {
             "name": "Black Flag",
             "abstract": "Black Flag was an American punk rock band formed in 1976 in\nHermosa Beach, California. The band was established by Greg\nGinn, the guitarist, primary songwriter and sole continuous\nmember through multiple personnel changes in the band. They\nare widely considered to be one of the first hardcore punk\nbands.\nBlack Flag's sound mixed the raw simplicity of the Ramones\nwith atonal guitar solos and frequent tempo shifts. The\nlyrics were written mostly by Ginn, and like other punk rock\nbands of the...",
             "birthyear": "1976",
+            "activeyear": "1979",
             "am": "black-flag-p3689",
             "name_short": "BLACK FLAG",
             "ints": {
@@ -1773,6 +1805,7 @@ var music = {
             "name": "Smokey Robinson",
             "abstract": "William \"Smokey\" Robinson, Jr. (born February 19, 1940) is\nan American R&B and soul singer-songwriter, record producer,\nand former record executive. Robinson is one of the primary\nfigures associated with Motown, second only to the company's\nfounder, Berry Gordy. Robinson's consistent commercial\nsuccess and creative contributions to the label have earned\nhim the title \"King of Motown.\"\nAs an original member of Motown Records' first vocal group\nThe Miracles and as a solo artist, Robinson...",
             "birthyear": "1940",
+            "activeyear": "1959",
             "am": "smokey-robinson-p5289",
             "name_short": "ROBINSON",
             "ints": {
@@ -1809,6 +1842,7 @@ var music = {
             "name": "CAN",
             "abstract": "Can was an experimental rock band formed in Cologne, West\nGermany in 1968. Later labeled as one of the first\n\"krautrock\" groups, they transcended mainstream influences\nand incorporated strong minimalist and world music elements\ninto their often psychedelic music.\nCan constructed their music largely through collective\nspontaneous composition \u2013\u2013 which the band differentiated\nfrom improvisation in the jazz sense \u2013\u2013 sampling\nthemselves in the studio and editing down the results;\nbassist\/chief...",
             "birthyear": "1968",
+            "activeyear": "1969",
             "am": "can-p3826",
             "name_short": "CAN",
             "ints": {
@@ -1851,6 +1885,7 @@ var music = {
             "name": "Funkadelic",
             "abstract": "Funkadelic was an African American music band most prominent\nduring the 1970s. The band and its sister act Parliament,\nboth led by George Clinton, began the funk music culture of\nthat decade.\nThe group that would become Funkadelic was originally\nformed by George Clinton in 1964, as the unnamed musical\nbacking for his doo wop group The Parliaments while on tour.\nThe band originally consisted of musicians Frankie Boyce,\nRichard Boyce, and Langston Booth plus the five members of\nthe Parliaments...",
             "birthyear": "1968",
+            "activeyear": "1967",
             "am": "funkadelic-p4323",
             "name_short": "FUNKADELIC",
             "ints": {
@@ -1901,6 +1936,7 @@ var music = {
             "name": "Elmore James",
             "abstract": "Elmore James (January 27, 1918 \u2013 May 24, 1963) was an\nAmerican blues guitarist, singer, song writer and band\nleader. He was known as The King of the Slide Guitar and had\na unique guitar style, noted for his use of loud\namplification and his stirring voice.\nJames was born Elmore Brooks in the old Richland community\nin Holmes County, Mississippi (not to be confused with two\nother locations of the same name in Mississippi, one in\nHumphreys County and the other in Rankin County). He was\nthe...",
             "birthyear": "1918",
+            "activeyear": "1951",
             "am": "elmore-james-p90058",
             "name_short": "JAMES",
             "ints": {
@@ -1936,6 +1972,7 @@ var music = {
             "name": "Robert Johnson",
             "abstract": "Robert Leroy Johnson (May 8, 1911 \u2013 August 16, 1938) was\nan American blues singer and musician. His landmark\nrecordings from 1936\u20131937 display a combination of\nsinging, guitar skills, and songwriting talent that have\ninfluenced later generations of musicians. Johnson's\nshadowy, poorly documented life and death at age 27 have\ngiven rise to much legend, including a Faustian myth. As an\nitinerant performer who played mostly on street corners, in\njuke joints, and at Saturday night dances,...",
             "birthyear": "1911",
+            "activeyear": "1937",
             "am": "robert-johnson-p91178",
             "name_short": "JOHNSON",
             "ints": {
@@ -1972,6 +2009,7 @@ var music = {
             "name": "Black Sabbath",
             "abstract": "Black Sabbath were an English rock band, formed in Aston,\nBirmingham in 1968 by Ozzy Osbourne (lead vocals), Tony\nIommi (guitar), Geezer Butler (bass guitar), and Bill Ward\n(drums). The band has since experienced multiple line-up\nchanges, with Tony Iommi the only constant presence in the\nband through the years. A total of twenty-two musicians have\nat one time been members of Black Sabbath. Originally formed\nas a heavy blues-rock band named Earth, the band began\nincorporating occult- and...",
             "birthyear": "1969",
+            "activeyear": "1970",
             "am": "black-sabbath-p3693",
             "name_short": "BLACK SABBATH",
             "ints": {
@@ -2009,6 +2047,7 @@ var music = {
             "name": "Roy Acuff",
             "abstract": "Roy Claxton Acuff (September 15, 1903 \u2013 November 23, 1992)\nwas an American country music singer, fiddler, and promoter.\nKnown as the King of Country Music, Acuff is often credited\nwith moving the genre from its early string band and\n\"hoedown\" format to the star singer-based format that helped\nmake it internationally successful.\nAcuff began his music career in the 1930s, and gained\nregional fame as the singer and fiddler for his group, the\nSmoky Mountain Boys. He joined the Grand Ole Opry in...",
             "birthyear": "1903",
+            "activeyear": "1956",
             "am": "roy-acuff-p1499",
             "name_short": "ACUFF",
             "ints": {
@@ -2041,6 +2080,7 @@ var music = {
             "name": "Jackie Wilson",
             "abstract": "Jack Leroy \"Jackie\" Wilson, Jr. (June 9, 1934 \u2013 January\n21, 1984) was an American singer and performer. Known as\n\"Mr. Excitement\", Wilson was important in the transition of\nrhythm and blues into soul. He was known as a master\nshowman, and as one of the most dynamic singers and\nperformers in R&B and rock history. Gaining fame in his\nearly years as a member of the R&B vocal group Billy Ward\nand His Dominoes, he went solo in 1957 and recorded over 50\nhit singles that spanned R&B, pop, soul,...",
             "birthyear": "1934",
+            "activeyear": "1957",
             "am": "jackie-wilson-p5843",
             "name_short": "WILSON",
             "ints": {
@@ -2076,6 +2116,7 @@ var music = {
             "name": "Bessie Smith",
             "abstract": "Bessie Smith (April 15, 1894 \u2013 September 26, 1937) was an\nAmerican blues singer.\nSometimes referred to as The Empress of the Blues, Smith\nwas the most popular female blues singer of the 1920s and\n1930s. She is often regarded as one of the greatest singers\nof her era and, along with Louis Armstrong, a major\ninfluence on subsequent jazz vocalists.\nThe 1900 census indicates that Bessie Smith was born in\nChattanooga, Tennessee in July 1892. However, the 1910\ncensus recorded her birthday as April...",
             "birthyear": "1894",
+            "activeyear": "1923",
             "am": "bessie-smith-p526",
             "name_short": "SMITH",
             "ints": {
@@ -2107,6 +2148,7 @@ var music = {
             "name": "Silver Apples",
             "abstract": "Silver Apples are an American psychedelic electronic music\nduo from New York, composed of Simeon Coxe III, who performs\nas Simeon, on a primitive synthesizer of his own devising\n(also named The Simeon), and until his death in 2005,\ndrummer Danny Taylor. The group was active between 1967 and\n1969, before reforming in the mid 1990s. They were one of\nthe first groups to employ electronic music techniques\nextensively within a rock idiom, and their minimalistic\nstyle, with its pulsing, driving...",
             "birthyear": "1967",
+            "activeyear": "1968",
             "am": "silver-apples-p25361",
             "name_short": "APPLES",
             "ints": {
@@ -2147,6 +2189,7 @@ var music = {
             "name": "Otis Redding",
             "abstract": "Otis Ray Redding, Jr. (September 9, 1941\u00a0\u2013 December 10,\n1967) was an American soul singer. Often called the \"King of\nSoul\", he is renowned for an ability to convey strong\nemotion through his voice. According to the website of the\nRock and Roll Hall of Fame (where he was inducted in 1989),\nRedding's name is \"synonymous with the term soul, music that\narose out of the black experience in America through the\ntransmutation of gospel and rhythm and blues into a form of\nfunky, secular testifying.\"...",
             "birthyear": "1941",
+            "activeyear": "1961",
             "am": "otis-redding-p5246",
             "name_short": "REDDING",
             "ints": {
@@ -2184,6 +2227,7 @@ var music = {
             "name": "Louis Jordan",
             "abstract": "Louis Jordan (July 8, 1908 \u2013 February 4, 1975) was a\npioneering American jazz, blues and rhythm & blues musician,\nsongwriter and bandleader who enjoyed his greatest\npopularity from the late 1930s to the early 1950s. Known as\n\"The King of the Jukebox\", Jordan was highly popular with\nboth black and white audiences in the later years of the\nswing era. In 2004, Rolling Stone Magazine ranked him #59 on\ntheir list of the 100 Greatest Artists of All Time.\nLouis Jordan was one of the most successful...",
             "birthyear": "1908",
+            "activeyear": "1941",
             "am": "louis-jordan-p6859",
             "name_short": "JORDAN",
             "ints": {
@@ -2223,6 +2267,7 @@ var music = {
             "name": "Afrika Bambaataa",
             "abstract": "Afrika Bambaataa (born April 19, 1957) is an American DJ\nfrom the South Bronx, New York who was instrumental in the\nearly development of hip hop throughout the 1980s. Afrika\nBambaataa is one of the three originators of break-beat\ndeejaying, and is respectfully known as the \"Grandfather\"\nand The Amen Ra of Universal Hip Hop Culture as well as The\nFather of The Electro Funk Sound. Through his co-opting of\nthe street gang the Black Spades into the music and\nculture-oriented Universal Zulu...",
             "birthyear": "1957",
+            "activeyear": "1980",
             "am": "afrika-bambaataa-p50618",
             "name_short": "BAMBAATAA",
             "ints": {
@@ -2259,6 +2304,7 @@ var music = {
             "name": "Phil Spector",
             "abstract": "Harvey Philip Spector (born December 25, 1939) is an\nAmerican former record producer and songwriter. The\noriginator of the \"Wall of Sound\" production technique,\nSpector was a pioneer of the 1960s girl group sound and\nproduced over 25 Top 40 hits between 1960 and 1965 alone.\nAfter this initial success, Spector later worked with\nartists including Ike and Tina Turner, John Lennon, George\nHarrison, and the Ramones with similar acclaim.\nHe produced the Beatles' Academy Award-winning album Let\nIt...",
             "birthyear": "1958",
+            "activeyear": "1987",
             "am": "phil-spector-p26999",
             "name_short": "SPECTOR",
             "ints": {
@@ -2296,6 +2342,7 @@ var music = {
             "name": "Louis Armstrong",
             "abstract": "Louis Daniel Armstrong (August 4, 1901 \u2013 July 6, 1971),\nnicknamed Satchmo or Pops, was an American jazz trumpeter\nand singer from New Orleans, Louisiana.\nComing to prominence in the 1920s as an \"inventive\" cornet\nand trumpet player, Armstrong was a foundational influence\nin jazz, shifting the music's focus from collective\nimprovisation to solo performance.\nWith his instantly recognizable deep and distinctive\ngravelly voice, Armstrong was also an influential singer,\ndemonstrating great...",
             "birthyear": "1901",
+            "activeyear": "1936",
             "am": "louis-armstrong-p52456",
             "name_short": "ARMSTRONG",
             "ints": {
@@ -2328,6 +2375,7 @@ var music = {
             "name": "Ernest Tubb",
             "abstract": "Ernest Dale Tubb (February 9, 1914 \u2013 September 6, 1984),\nnicknamed the Texas Troubadour, was an American singer and\nsongwriter and one of the pioneers of country music. His\nbiggest career hit song, \"Walking the Floor Over You\"\n(1941), marked the rise of the honky tonk style of music. In\n1948, he was the first singer to record a hit version of\n\"Blue Christmas\", a song more commonly associated with Elvis\nPresley and his mid-1950s version. Another well-known Tubb\nhit was \"Waltz Across Texas\"...",
             "birthyear": "1914",
+            "activeyear": "1940",
             "am": "ernest-tubb-p24900",
             "name_short": "TUBB",
             "ints": {
@@ -2358,6 +2406,7 @@ var music = {
             "name": "Billie Holiday",
             "abstract": "Billie Holiday (born Eleanora Fagan, April 7, 1915 \u2013 July\n17, 1959) was an American jazz singer and songwriter.\nNicknamed \"Lady Day\" by her friend and musical partner\nLester Young, Holiday had a seminal influence on jazz and\npop singing. Her vocal style, strongly inspired by jazz\ninstrumentalists, pioneered a new way of manipulating\nphrasing and tempo.\nCritic John Bush wrote that Holiday \"changed the art of\nAmerican pop vocals forever.\" She co-wrote only a few songs,\nbut several of them have...",
             "birthyear": "1915",
+            "activeyear": "1940",
             "am": "billie-holiday-p56716",
             "name_short": "HOLIDAY",
             "ints": {
@@ -2397,6 +2446,7 @@ var music = {
             "name": "The Byrds",
             "abstract": "The Byrds (pronounced \/\u02c8b\u025crdz\/ birds) were an American\nrock band, formed in Los Angeles, California in 1964. The\nband underwent multiple line-up changes throughout its\nexistence, with frontman Roger McGuinn (aka Jim McGuinn)\nremaining the sole consistent member until the group\ndisbanded in 1973. Although they only managed to attain the\nhuge commercial success of contemporaries like The Beatles,\nThe Beach Boys, and The Rolling Stones for a short period of\ntime (1965\u201366), The Byrds are today...",
             "birthyear": "1964",
+            "activeyear": "1965",
             "am": "the-byrds-p3810",
             "name_short": "BYRDS",
             "ints": {
@@ -2438,6 +2488,7 @@ var music = {
             "name": "The Everly Brothers",
             "abstract": "The Everly Brothers (Don and Phil, born Isaac Donald Everly,\nFebruary 1, 1937, and Phillip Everly, January 19, 1939) are\ncountry-influenced rock and roll performers, known for\nsteel-string guitar playing and close harmony singing. The\nbrothers are the most successful U.S. rock and roll duo on\nthe Hot 100. Their greatest period came between 1957 and\n1965.\nDon and Phil Everly are both guitarists and use a simple\nvocal harmony mostly based on parallel thirds. With this,\neach line can often...",
             "birthyear": "1937",
+            "activeyear": "1956",
             "am": "the-everly-brothers-p4208",
             "name_short": "EVERLY BROTHERS",
             "ints": {
@@ -2476,6 +2527,7 @@ var music = {
             "name": "Alice Cooper",
             "abstract": "Alice Cooper (born Vincent Damon Furnier; February 4, 1948)\nis an American rock singer, songwriter and musician whose\ncareer spans more than five decades. With a stage show that\nsometimes included a guillotine, gallows, electric chair,\nfake blood, boa constrictor and baby dolls, Cooper drew\nequally from horror movies, vaudeville and garage rock to\npioneer a grandly theatrical and violent brand of heavy\nmetal that was designed to shock.\nAlice Cooper originally was a band that consisted of...",
             "birthyear": "1965",
+            "activeyear": "1969",
             "am": "alice-cooper-p3962",
             "name_short": "COOPER",
             "ints": {
@@ -2525,6 +2577,7 @@ var music = {
             "name": "John Coltrane",
             "abstract": "John William Coltrane (sometimes abbreviated \"Trane\";\nSeptember 23, 1926\u00a0\u2013 July 17, 1967) was an American jazz\nsaxophonist and composer. Working in the bebop and hard bop\nidioms early in his career, Coltrane helped pioneer the use\nof modes in jazz and later was at the forefront of free\njazz. He was prolific, organizing at least fifty recording\nsessions as a leader during his recording career, and\nappeared as a sideman on many other albums, notably with\ntrumpeter Miles Davis and pianist...",
             "birthyear": "1926",
+            "activeyear": "1957",
             "am": "john-coltrane-p65851",
             "name_short": "COLTRANE",
             "ints": {
@@ -2565,6 +2618,7 @@ var music = {
             "name": "Joy Division",
             "abstract": "Joy Division were an English rock band formed in 1976 in\nSalford, Greater Manchester. Originally named Warsaw, the\nband primarily consisted of Ian Curtis (vocals and\noccasional guitar), Bernard Sumner (guitar and keyboards),\nPeter Hook (bass guitar and backing vocals) and Stephen\nMorris (drums and percussion).\nJoy Division rapidly evolved from their initial punk rock\ninfluences to develop a sound and style that pioneered the\npost-punk movement of the late 1970s. According to music\ncritic Jon...",
             "birthyear": "1977",
+            "activeyear": "1978",
             "am": "joy-division-p71273",
             "name_short": "JOY DIVISION",
             "ints": {
@@ -2605,6 +2659,7 @@ var music = {
             "name": "John Lee Hooker",
             "abstract": "John Lee Hooker (August 22, 1917 \u2013 June 21, 2001) was an\nAmerican blues singer-songwriter and guitarist, born near\nClarksdale, Mississippi. Hooker began his life as the son of\na sharecropper, William Hooker, and rose to prominence\nperforming his own unique style of what was originally\nclosest to Delta blues. He developed a 'talking blues' style\nthat was his trademark. Though similar to the early Delta\nblues, his music was metrically free. John Lee Hooker could\nbe said to embody his own...",
             "birthyear": "1917",
+            "activeyear": "1948",
             "am": "john-lee-hooker-p371",
             "name_short": "HOOKER",
             "ints": {
@@ -2641,6 +2696,7 @@ var music = {
             "name": "KISS",
             "abstract": "Kiss (often stylized as KISS) is an American hard rock band\nformed in New York City in January 1973. Easily identified\nby its members' face paint and flamboyant stage outfits, the\ngroup rose to prominence in the mid to late 1970s on the\nbasis of their elaborate live performances, which featured\nfire breathing, blood spitting, smoking guitars, shooting\nrockets, levitating drum kits and pyrotechnics. Kiss has\nbeen awarded 24 gold albums to date. The band has sold more\nthan 40\u00a0million albums in...",
             "birthyear": "1973",
+            "activeyear": "1974",
             "am": "kiss-p4692",
             "name_short": "KISS",
             "ints": {
@@ -2686,6 +2742,7 @@ var music = {
             "name": "Sly &amp; the Family Stone",
             "abstract": "Sly and the Family Stone were an American rock, funk, and\nsoul band from San Francisco, California. Active from 1966\nto 1983, the band was pivotal in the development of soul,\nfunk, and psychedelic music. Headed by singer, songwriter,\nrecord producer, and multi-instrumentalist Sly Stone, and\ncontaining several of his family members and friends, the\nband was the first major American rock band to have an\n\"integrated, multi-gender\" lineup.\nBrothers Sly Stone and singer\/guitarist Freddie Stone...",
             "birthyear": "1967",
+            "activeyear": "1967",
             "am": "sly-the-family-stone-p5460",
             "name_short": "STONE",
             "ints": {
@@ -2722,6 +2779,7 @@ var music = {
             "name": "Fats Waller",
             "abstract": "Fats Waller (May 21, 1904 \u2013 December 15, 1943), born\nThomas Wright Waller, was a jazz pianist, organist,\ncomposer, singer, and comedic entertainer. He was the\nyoungest of four children born to Adaline Locket Waller,\nwife of the Reverend Edward Martin Waller.\nFats Waller started playing the piano when he was six and\ngraduated to the organ of his father's church four years\nlater. At the age of fourteen he was playing the organ at\nHarlem's Lincoln Theater and within twelve months he had...",
             "birthyear": "1904",
+            "activeyear": "1927",
             "am": "fats-waller-p7764",
             "name_short": "WALLER",
             "ints": {
@@ -2753,6 +2811,7 @@ var music = {
             "name": "Roy Orbison",
             "abstract": "Roy Kelton Orbison (April 23, 1936 \u2013 December 6, 1988) was\nan American singer-songwriter and musician, well known for\nhis distinctive, powerful voice, complex compositions, and\ndark emotional ballads. Orbison grew up in Texas and began\nsinging in a rockabilly \/ country & western band in high\nschool until he was signed by Sun Records in Memphis. His\ngreatest success came with Monument Records in the early to\nmid 1960s when 22 of his songs placed on the Billboard Top\nForty, including \"Only the...",
             "birthyear": "1936",
+            "activeyear": "1956",
             "am": "roy-orbison-p5072",
             "name_short": "ORBISON",
             "ints": {
@@ -2791,6 +2850,7 @@ var music = {
             "name": "Frank Zappa",
             "abstract": "Frank Vincent Zappa ( \/\u02c8z\u00e6p\u0259\/; December 21, 1940\u00a0\u2013\nDecember 4, 1993) was an American composer,\nsinger-songwriter, electric guitarist, record producer, and\nfilm director. In a career spanning more than 30\u00a0years,\nZappa wrote rock, jazz, electronic, orchestral, and musique\nconcr\u00e8te works. He also directed feature-length films and\nmusic videos, and designed album covers. Zappa produced\nalmost all of the more than 60\u00a0albums he released with the\nband The Mothers of Invention and as a solo...",
             "birthyear": "1940",
+            "activeyear": "1969",
             "am": "frank-zappa-p74796",
             "name_short": "ZAPPA",
             "ints": {
@@ -2831,6 +2891,7 @@ var music = {
             "name": "Deep Purple",
             "abstract": "Deep Purple are an English rock band formed in Hertford in\n1968. Along with Led Zeppelin and Black Sabbath, they are\nconsidered to be among the pioneers of heavy metal and\nmodern hard rock, although some band members believe that\ntheir music cannot be categorised as belonging to any one\ngenre. The band incorporated classical music, blues-rock,\npop and progressive rock elements. They were once listed by\nthe Guinness Book of World Records as \"the loudest pop\ngroup\", and have sold over...",
             "birthyear": "1968",
+            "activeyear": "1968",
             "am": "deep-purple-p4061",
             "name_short": "DEEP PURPLE",
             "ints": {
@@ -2872,6 +2933,7 @@ var music = {
             "name": "Syd Barrett",
             "abstract": "Syd Barrett (6 January 1946 \u2013 7 July 2006), born Roger\nKeith Barrett, was an English singer-songwriter, guitarist,\nand painter. He is most remembered as a founding member of\nthe psychedelic\/progressive rock band Pink Floyd, providing\nmajor musical and stylistic direction in their early work,\nalthough he left the group in 1968 amidst speculations of\nmental illness exacerbated by heavy drug use.\nBarrett was active as a rock musician for about seven\nyears, recording three singles, two albums,...",
             "birthyear": "1946",
+            "activeyear": "1969",
             "am": "syd-barrett-p3631",
             "name_short": "BARRETT",
             "ints": {
@@ -2910,6 +2972,7 @@ var music = {
             "name": "Jerry Lee Lewis",
             "abstract": "Jerry Lee Lewis (born September 29, 1935) is an American\nrock and roll and country music singer and pianist. An early\npioneer of rock and roll music, his career faltered after\nLewis married his young cousin, and he afterwards made a\ntransition to country music.\nLewis was inducted into the Rock and Roll Hall of Fame in\n1986 and his pioneering contribution to the genre has been\nrecognized by the Rockabilly Hall of Fame. In 2008 He was\ninducted into the Hit Parade Hall of Fame. In 2004,\nRolling...",
             "birthyear": "1935",
+            "activeyear": "1956",
             "am": "jerry-lee-lewis-p4753",
             "name_short": "LEWIS",
             "ints": {
@@ -2944,6 +3007,7 @@ var music = {
             "name": "Buddy Guy",
             "abstract": "George \"Buddy\" Guy (born July 30, 1936) is an American blues\nguitarist and singer. He is a critically acclaimed artist\nwho has established himself as a pioneer of the Chicago\nblues sound, and has served as an influence to some of the\nmost notable musicians of his generation. Guy is known, too,\nfor his showmanship on stage, playing his guitar with\ndrumsticks, or strolling into the audience while playing\nsolos. He was ranked thirtieth in Rolling Stone magazine's\nlist of the \"100 Greatest...",
             "birthyear": "1936",
+            "activeyear": "1959",
             "am": "buddy-guy-p356",
             "name_short": "GUY",
             "ints": {
@@ -2980,6 +3044,7 @@ var music = {
             "name": "Duke Ellington",
             "abstract": "Edward Kennedy \"Duke\" Ellington (April 29, 1899 \u2013 May 24,\n1974) was an American composer, pianist, and big band\nleader. Ellington wrote over 1,000 compositions. In the\nwords of Bob Blumenthal of The Boston Globe \"In the century\nsince his birth, there has been no greater composer,\nAmerican or otherwise, than Edward Kennedy Ellington.\"\nA prominent figure in the history of jazz, Ellington's\nmusic stretched into various other genres, including blues,\ngospel, film scores, popular, and classical....",
             "birthyear": "1899",
+            "activeyear": "1940",
             "am": "duke-ellington-p72532",
             "name_short": "ELLINGTON",
             "ints": {
@@ -3013,6 +3078,7 @@ var music = {
             "name": "Bad Brains",
             "abstract": "Bad Brains is an American hardcore punk band formed in\nWashington, D.C., in 1977. They are widely regarded as among\nthe pioneers of hardcore punk, though the band's members\nobjected to this term to describe their music. They are also\nan adept reggae band, while later recordings featured\nelements of other genres like funk, heavy metal, hip-hop and\nsoul. Bad Brains are also notable as religious followers of\nthe Rastafari movement.\nOriginally formed as a jazz fusion ensemble under the name\nMind...",
             "birthyear": "1977",
+            "activeyear": "1980",
             "am": "bad-brains-p3606",
             "name_short": "BAD BRAINS",
             "ints": {
@@ -3055,6 +3121,7 @@ var music = {
             "name": "Jeff Beck",
             "abstract": "Geoffrey Arnold \"Jeff\" Beck (born 24 June 1944) is an\nEnglish rock guitarist. One of three noted guitarists, with\nEric Clapton and Jimmy Page, to have played with The\nYardbirds, Beck also formed The Jeff Beck Group and Beck,\nBogert & Appice. He was ranked 14th in Rolling Stone's list\nof the \"100 Greatest Guitarists of All Time\" and the\nmagazine has described him as \"one of the most influential\nlead guitarists in rock\". MSNBC has called him a\n\"guitarist's guitarist\".\nMuch of Beck's recorded...",
             "birthyear": "1944",
+            "activeyear": "1967",
             "am": "jeff-beck-p3650",
             "name_short": "BECK",
             "ints": {
@@ -3098,6 +3165,7 @@ var music = {
             "name": "Buzzcocks",
             "abstract": "Buzzcocks are an English punk band formed in Bolton in 1976,\nled by singer\u2013songwriter\u2013guitarist Pete Shelley.\nThey are regarded as an important influence on the\nManchester music scene, the independent record label\nmovement, punk rock, power pop, pop punk and indie rock.\nThey achieved commercial success with singles that fused pop\ncraftsmanship with rapid-fire punk energy. These singles\nwere collected on Singles Going Steady, described by critic\nNed Raggett as a \"punk masterpiece\". The widely...",
             "birthyear": "1976",
+            "activeyear": "1977",
             "am": "buzzcocks-p3809",
             "name_short": "BUZZCOCKS",
             "ints": {
@@ -3139,6 +3207,7 @@ var music = {
             "name": "Sun Ra",
             "abstract": "Sun Ra (born Herman Poole Blount, legal name Le Sony'r Ra;\nMay 22, 1914 \u2013 May 30, 1993) was a prolific jazz composer,\nbandleader, piano and synthesizer player, poet and\nphilosopher known for his \"cosmic philosophy,\" musical\ncompositions and performances. He was born in Birmingham,\nAlabama. He is a 1979 inductee of the Alabama Jazz Hall of\nFame.\n\"Of all the jazz musicians, Sun Ra was probably the most\ncontroversial,\" critic Scott Yanow said, because of Sun Ra's\neclectic music and unorthodox...",
             "birthyear": "1914",
+            "activeyear": "1978",
             "am": "sun-ra-p116450",
             "name_short": "RA",
             "ints": {
@@ -3175,6 +3244,7 @@ var music = {
             "name": "Pere Ubu",
             "abstract": "Pere Ubu is an experimental rock music group formed in\nCleveland, Ohio, in 1975. Despite many long-term band\nmembers, singer David Thomas is the only constant. The group\nis named after P\u00e8re Ubu (\"father Ubu\"), the protagonist of\nUbu Roi (\"Ubu, the King\"), a play by French writer Alfred\nJarry.\nWhile Pere Ubu have never been widely popular\u2014usually\ncategorized as \"underground rock\"\u2014they have a devoted\nfollowing and are an influential and critically acclaimed\nband.\nCritical opinions of Pere Ubu...",
             "birthyear": "1975",
+            "activeyear": "1975",
             "am": "pere-ubu-p5128",
             "name_short": "PERE UBU",
             "ints": {
@@ -3221,6 +3291,7 @@ var music = {
             "name": "The Isley Brothers",
             "abstract": "The Isley Brothers (pronounced \/\u02c8a\u026azli\u02d0\/; EYES-lee) are a\nsuccessful and long-running American music group consisting\nof different line-ups of six brothers, and a brother-in-law,\nChris Jasper. The founding members were O'Kelly Isley, Jr.,\nRudolph Isley, Ronald Isley and Vernon Isley.\nStarting their careers in the gospel performing circuit in\nthe early 1950s, they eventually crossed over to secular\nmusic first finding modest success in doo-wop until the\nrelease of their first million-selling...",
             "birthyear": "1954",
+            "activeyear": "1957",
             "am": "the-isley-brothers-p4562",
             "name_short": "ISLEY BROTHERS",
             "ints": {
@@ -3267,6 +3338,7 @@ var music = {
             "name": "Iggy Pop",
             "abstract": "Iggy Pop (born James Newell \"Jim\" Osterberg, Jr.; April 21,\n1947) is an American singer, songwriter, musician, and\noccasional actor. He is considered an influential innovator\nof punk rock, hard rock, and other styles of rock music. Pop\nbegan calling himself \"Iggy\" after his first band in high\nschool (for which he was drummer), The Iguanas. He was lead\nsinger\/songwriter of influential protopunk\/glam punkband The\nStooges and became known for his outrageous and\nunpredictable stage antics.\nPop's...",
             "birthyear": "1947",
+            "activeyear": "1977",
             "am": "iggy-pop-p5167",
             "name_short": "POP",
             "ints": {
@@ -3311,6 +3383,7 @@ var music = {
             "name": "Grandmaster Flash",
             "abstract": "Joseph Saddler (born January 1, 1958 in Bridgetown,\nBarbados) better known as King Grandmaster Flash, is an\nAmerican hip hop musician and DJ; one of the pioneers of\nhip-hop DJing, cutting, and mixing.\nGrandmaster Flash and the Furious Five were inducted into\nthe Rock and Roll Hall of Fame in 2007, becoming the first\nhip hop\/rap artists to be so honored.\nJoseph Saddler's family migrated to the United States from\nBarbados, in the Caribbean, and he grew up in the Bronx, New\nYork. He attended...",
             "birthyear": "1958",
+            "activeyear": "1981",
             "am": "grandmaster-flash-p76452",
             "name_short": "FLASH",
             "ints": {
@@ -3342,6 +3415,7 @@ var music = {
             "name": "Nat King Cole",
             "abstract": "Nathaniel Adams Coles (March 17, 1919 \u2013 February 15,\n1965), known professionally as Nat King Cole, was an\nAmerican musician who first came to prominence as a leading\njazz pianist. Although an accomplished pianist, he owes most\nof his popular musical fame to his soft baritone voice,\nwhich he used to perform in big band and jazz genres. He was\none of the first black Americans to host a television\nvariety show, and has maintained worldwide popularity since\nhis death.\nNathaniel Adams Coles was...",
             "birthyear": "1919",
+            "activeyear": "1946",
             "am": "nat-king-cole-p65542",
             "name_short": "COLE",
             "ints": {
@@ -3377,6 +3451,7 @@ var music = {
             "name": "Talking Heads",
             "abstract": "Talking Heads were an American rock band formed in 1974 in\nNew York City and active until 1991. The band comprised\nDavid Byrne, Chris Frantz, Tina Weymouth and Jerry Harrison.\nAuxiliary musicians also regularly made appearances in\nconcert and on the group's albums.\nThe New Wave musical style of Talking Heads combined\nelements of punk rock, avant-garde, pop, funk, world music\nand art rock. Frontman and songwriter David Byrne\ncontributed whimsical, esoteric lyrics to the band's songs,\nand...",
             "birthyear": "1974",
+            "activeyear": "1977",
             "am": "talking-heads-p5594",
             "name_short": "TALKING HEADS",
             "ints": {
@@ -3423,6 +3498,7 @@ var music = {
             "name": "Eddie Cochran",
             "abstract": "Eddie Cochran (October 2, 1938 \u2013 April 17, 1960), was an\nAmerican rock and roll pioneer who in his brief career had a\nsmall but lasting influence on rock music through his guitar\nplaying. Cochran's rockabilly songs, such as \"C'mon\nEverybody\", \"Somethin' Else\" and \"Summertime Blues\",\ncaptured teenage frustration and desire in the late 1950s\nand early 1960s. In the words of Lester Bangs, writing in\nRolling Stone in 1972, \"Eddie may have imitated Elvis\nvocally even more than a dozen or so other...",
             "birthyear": "1938",
+            "activeyear": "1956",
             "am": "eddie-cochran-p3928",
             "name_short": "COCHRAN",
             "ints": {
@@ -3457,6 +3533,7 @@ var music = {
             "name": "Ella Fitzgerald",
             "abstract": "Ella Jane Fitzgerald (April 25, 1917 \u2013 June 15, 1996),\nalso known as the \"First Lady of Song\" and \"Lady Ella,\" was\nan American jazz and song vocalist. With a vocal range\nspanning three octaves (Db3 to Db6), she was noted for her\npurity of tone, impeccable diction, phrasing and intonation,\nand a \"horn-like\" improvisational ability, particularly in\nher scat singing.\nShe is considered to be a notable interpreter of the Great\nAmerican Songbook. Over a recording career that lasted 59\nyears, she...",
             "birthyear": "1917",
+            "activeyear": "1939",
             "am": "ella-fitzgerald-p6503",
             "name_short": "FITZGERALD",
             "ints": {
@@ -3491,6 +3568,7 @@ var music = {
             "name": "Neu!",
             "abstract": "Neu! (trademarked NEU! in block capitals, German: New!,\npronounced\u00a0[\u02c8n\u0254\u028f]) was a German band formed by Klaus\nDinger and Michael Rother after their split from Kraftwerk\nin the early 1970s. Though the band had minimal commercial\nsuccess during its existence, Neu! are retrospectively\nconsidered one of the founding fathers of Krautrock and a\nsignificant influence on artists including David Bowie,\nBrian Eno, Iggy Pop, PiL, Boredoms, Joy Division, Gary\nNuman, Ultravox, Simple Minds, Negativland,...",
             "birthyear": "1971",
+            "activeyear": "1972",
             "am": "neu-p19545",
             "name_short": "NEU!",
             "ints": {
@@ -3529,6 +3607,7 @@ var music = {
             "name": "Burt Bacharach",
             "abstract": "Burt F. Bacharach ( \/\u02c8b\u00e6k\u0259r\u00e6k\/ BAK-\u0259-rak; born May 12,\n1928) is an American pianist, composer and music producer.\nHe is known for his popular hit songs and compositions from\nthe mid-1950s through the 1980s, with lyrics written by Hal\nDavid. Many of their hits were produced specifically for,\nand performed by, Dionne Warwick. Following on with the\ninitial success of this collaboration, Bacharach went on to\nproduce hits with Dusty Springfield, Bobbie Gentry and\nothers.\nAs of 2006, Bacharach had...",
             "birthyear": "1928",
+            "activeyear": "1965",
             "am": "burt-bacharach-p14856",
             "name_short": "BACHARACH",
             "ints": {
@@ -3557,6 +3636,7 @@ var music = {
             "name": "Charlie Christian",
             "abstract": "Charles Henry \"Charlie\" Christian (July 29, 1916 \u2013 March\n2, 1942) was an American swing and jazz guitarist.\nChristian was an important early performer on the electric\nguitar, and is cited as a key figure in the development of\nbebop and cool jazz. He gained national exposure as a member\nof the Benny Goodman Sextet and Orchestra from August 1939\nto June 1941. His single-string technique combined with\namplification helped bring the guitar out of the rhythm\nsection and into the forefront as a...",
             "birthyear": "1916",
+            "activeyear": "1959",
             "am": "charlie-christian-p6276",
             "name_short": "CHRISTIAN",
             "ints": {
@@ -3585,6 +3665,7 @@ var music = {
             "name": "Carl Perkins",
             "abstract": "Carl Lee Perkins (April 9, 1932 \u2013 January 19, 1998) was an\nAmerican rockabilly musician who recorded most notably at\nSun Records Studio in Memphis, Tennessee, beginning during\n1954. His best known song is \"Blue Suede Shoes\".\nAccording to Charlie Daniels, \"Carl Perkins' songs\npersonified the rockabilly era, and Carl Perkins' sound\npersonifies the rockabilly sound more so than anybody\ninvolved in it, because he never changed.\" Perkins' songs\nwere recorded by artists (and friends) as...",
             "birthyear": "1932",
+            "activeyear": "1955",
             "am": "carl-perkins-p5129",
             "name_short": "PERKINS",
             "ints": {
@@ -3618,6 +3699,7 @@ var music = {
             "name": "Ultravox",
             "abstract": "Ultravox is a British New Wave rock band. They were one of\nthe primary exponents of the British electronic pop music\nmovement of the late 1970s\/early 1980s. The band was\nparticularly associated with the New Romantic and New Wave\nmovements.\nThis band was effectively led by two different individuals\nin its career, two frontmen who, curiously, never played\ntogether in the band at the same time. From 1974 until 1979,\nthe frontman and main driving force behind Ultravox was John\nFoxx who left the...",
             "birthyear": "1973",
+            "activeyear": "1977",
             "am": "ultravox-p5726",
             "name_short": "ULTRAVOX",
             "ints": {
@@ -3662,6 +3744,7 @@ var music = {
             "name": "Eric B. &amp; Rakim",
             "abstract": "Eric B. & Rakim were a hip-hop duo composed of DJ Eric\nBarrier (born November 8, 1965) and MC Rakim (born William\nMichael Griffin Jr.).\nHailing from Long Island, New York, the pair are generally\nconsidered by hip hop enthusiasts to be one of the most\ninfluential and innovative groups in the genre. During hip\nhop's \"golden age\" of the mid-1980s to the early 90s, the\nduo was almost universally regarded as the premier MC\/DJ\ncombo in hip hop. The two had a potent chemistry and each\nrepresented...",
             "birthyear": "1987",
+            "activeyear": "1986",
             "am": "eric-b-rakim-p53231",
             "name_short": "RAKIM",
             "ints": {
@@ -3695,6 +3778,7 @@ var music = {
             "name": "Dead Kennedys",
             "abstract": "Dead Kennedys are an American punk rock band formed in San\nFrancisco, California in 1978. The band are pioneers of\nhardcore punk during the 1980s, the band gained a large\nunderground fanbase in the international punk music scene.\nTheir music mixed the more experimental elements of British\n1970s punk with the raw energy of the 1980s American\nhardcore punk scene. Dead Kennedys' songs mixed deliberately\nextreme lyrics with satire, sarcasm, and irony of social and\npolitical issues of the...",
             "birthyear": "1978",
+            "activeyear": "1979",
             "am": "dead-kennedys-p4046",
             "name_short": "DEAD KENNEDYS",
             "ints": {
@@ -3738,6 +3822,7 @@ var music = {
             "name": "Gene Vincent",
             "abstract": "Vincent Eugene Craddock (February 11, 1935\u2013October 12,\n1971), better known as Gene Vincent, was an American\nmusician who pioneered the styles of rock and roll and\nrockabilly. His 1956 top ten hit with his Blue Caps,\n\"Be-Bop-A-Lula\", is considered a significant early example\nof rockabilly. He is a member of the Rock and Roll and\nRockabilly Halls of Fame.\nVincent Eugene Craddock was born in Norfolk, Virginia, on\nFebruary 11, 1935. His early musical influences included\ncountry, rhythm and blues...",
             "birthyear": "1935",
+            "activeyear": "1956",
             "am": "gene-vincent-p5764",
             "name_short": "VINCENT",
             "ints": {
@@ -3772,6 +3857,7 @@ var music = {
             "name": "B.B. King",
             "abstract": "Riley B. King (born September 16, 1925), known by the stage\nname B.B. King, is an American blues guitarist and\nsinger-songwriter acclaimed for his expressive singing and\nfluid, complex guitar playing.\nRolling Stone magazine ranked him at #3 on its list of the\n\"100 greatest guitarists of all time\". According to Edward\nM. Komara, King \"introduced a sophisticated style of soloing\nbased on fluid string bending and shimmering vibrato that\nwould influence virtually every electric blues guitarist...",
             "birthyear": "1925",
+            "activeyear": "1949",
             "am": "bb-king-p93923",
             "name_short": "KING",
             "ints": {
@@ -3812,6 +3898,7 @@ var music = {
             "name": "Kitty Wells",
             "abstract": "Ellen Muriel Deason (born August 30, 1919), known\nprofessionally as Kitty Wells, is an American country music\nsinger. Her 1952 hit recording, \"It Wasn't God Who Made\nHonky Tonk Angels\", made her the first female country singer\nto top the U.S. country charts, and turned her into the\nfirst female country star. Her Top 10 hits continued until\nthe mid-1960s, inspiring a long list of female country\nsingers who came to prominence in the 1960s.\nWells's success in the 1950s and 1960s was so enormous...",
             "birthyear": "1919",
+            "activeyear": "1950",
             "am": "kitty-wells-p1864",
             "name_short": "WELLS",
             "ints": {
@@ -3843,6 +3930,7 @@ var music = {
             "name": "Van Morrison",
             "abstract": "Van Morrison, OBE (born George Ivan Morrison; 31 August\n1945) is a Northern Irish singer-songwriter and musician.\nHis live performances at their best are regarded as\ntranscendental and inspired; while some of his recordings,\nsuch as the studio albums Astral Weeks and Moondance, and\nthe live album It's Too Late to Stop Now, are widely viewed\nas among the greatest ever made.\nKnown as \"Van the Man\" to his fans, Morrison started his\nprofessional career when, as a teenager in the late 1950s,\nhe...",
             "birthyear": "1958",
+            "activeyear": "1967",
             "am": "van-morrison-p107175",
             "name_short": "MORRISON",
             "ints": {
@@ -3885,6 +3973,7 @@ var music = {
             "name": "Frank Sinatra",
             "abstract": "Francis Albert \"Frank\" Sinatra\n(pronounced\u00a0\/s\u0268\u02c8n\u0251\u02d0tr\u0259\/; December 12, 1915\u00a0\u2013 May\n14, 1998) was an American singer and actor.\nBeginning his musical career in the swing era with Harry\nJames and Tommy Dorsey, Sinatra became a successful solo\nartist in the early to mid-1940s, being the idol of the\n\"bobby soxers\". His professional career had stalled by the\n1950s, but it was reborn in 1954 after he won the Academy\nAward for Best Supporting Actor (for his performance in From\nHere to Eternity).\nHe...",
             "birthyear": "1915",
+            "activeyear": "1939",
             "am": "frank-sinatra-p3150",
             "name_short": "SINATRA",
             "ints": {
@@ -3918,6 +4007,7 @@ var music = {
             "name": "Aerosmith",
             "abstract": "Aerosmith is an American hard rock band, sometimes referred\nto as \"The Bad Boys from Boston\" and \"America's Greatest\nRock and Roll Band\". Their style, which is rooted in\nblues-based hard rock, has come to also incorporate elements\nof pop, heavy metal, and rhythm and blues, and has inspired\nmany subsequent rock artists. The band was formed in Boston,\nMassachusetts in 1970. Guitarist Joe Perry and bassist Tom\nHamilton, originally in a band together called the Jam Band,\nmet up with singer...",
             "birthyear": "1970",
+            "activeyear": "1973",
             "am": "aerosmith-p3508",
             "name_short": "AEROSMITH",
             "ints": {
@@ -3960,6 +4050,7 @@ var music = {
             "name": "Buffalo Springfield",
             "abstract": "Buffalo Springfield was a North American rock group that\nserved as a springboard for the careers of Neil Young,\nStephen Stills, Richie Furay and Jim Messina. Buffalo\nSpringfield is best known for the song \"For What It's\nWorth\".\nAfter the band's formation in April 1966, a series of\ndisruptions, including infighting and the pressure of\nworking in the music industry, resulted in constant changes\nin the group's lineup and ultimately culminated in the\ngroup's disbanding after roughly 25...",
             "birthyear": "1966",
+            "activeyear": "1966",
             "am": "buffalo-springfield-p3795",
             "name_short": "BUFFALO SPRINGFIELD",
             "ints": {
@@ -3993,6 +4084,7 @@ var music = {
             "name": "Patsy Cline",
             "abstract": "Patsy Cline (September 8, 1932 \u2013 March 5, 1963), born\nVirginia Patterson Hensley, was an American country music\nsinger who enjoyed pop music crossover success during the\nera of the Nashville sound in the early 1960s. Since her\ndeath in 1963 at age 30 in a private airplane crash at the\nheight of her career, she has been considered one of the\nmost influential, successful, and acclaimed female vocalists\nof the 20th century.\nCline was best known for her rich tone and emotionally\nexpressive bold...",
             "birthyear": "1932",
+            "activeyear": "1955",
             "am": "patsy-cline-p65087",
             "name_short": "CLINE",
             "ints": {
@@ -4026,6 +4118,7 @@ var music = {
             "name": "Big Star",
             "abstract": "Big Star is an American rock band formed in Memphis,\nTennessee, in 1971 by Alex Chilton, Chris Bell, Jody\nStephens and Andy Hummel. The group broke up in 1974, but\nreorganized with a new line-up nearly 20 years later. In its\nfirst era, the band's musical style drew on the work of\nBritish Invasion groups including The Beatles and The Kinks,\nas well as The Byrds, The Beach Boys, and other U.S. acts.\nTo the resulting power pop, Big Star added dark, nihilistic\nthemes, and produced a style that...",
             "birthyear": "1971",
+            "activeyear": "1972",
             "am": "big-star-p3676",
             "name_short": "BIG STAR",
             "ints": {
@@ -4066,6 +4159,7 @@ var music = {
             "name": "Minor Threat",
             "abstract": "Minor Threat was an American hardcore punk band formed in\nWashington, D.C. in 1980 and disbanded in 1983. The band was\nrelatively short-lived, but had a strong influence on the\nhardcore punk music scene. Minor Threat's song \"Straight\nEdge\" became the eventual basis of the straight edge\nmovement, while the band often professed their own \"straight\nedge\" ideals. Allmusic described Minor Threat's music as\n\"iconic,\" and noted that their groundbreaking music \"has\nheld up better than [that of] most...",
             "birthyear": "1980",
+            "activeyear": "1981",
             "am": "minor-threat-p13686",
             "name_short": "MINOR THREAT",
             "ints": {
@@ -4101,6 +4195,7 @@ var music = {
             "name": "Marvin Gaye",
             "abstract": "Marvin Pentz Gay, Jr. (April 2, 1939 \u2013 April 1, 1984),\nbetter known by his stage name Marvin Gaye, was an American\nsinger-songwriter and musician with a four-octave vocal\nrange. Starting as a member of the doo-wop group The\nMoonglows in the late fifties, he ventured into a solo\ncareer after the group disbanded in 1960 signing with the\nTamla Records subsidiary of Motown Records. After starting\noff as a session drummer, Gaye ranked as the label's\ntop-selling solo artist during the...",
             "birthyear": "1939",
+            "activeyear": "1961",
             "am": "marvin-gaye-p4344",
             "name_short": "GAYE",
             "ints": {
@@ -4148,6 +4243,7 @@ var music = {
             "name": "Lefty Frizzell",
             "abstract": "Lefty Frizzell (March 31, 1928\u2013July 19, 1975), born\nWilliam Orville Frizzell, was an American country music\nsinger and songwriter of the 1950s, and a proponent of honky\ntonk music. His relaxed style of singing was an influence on\nlater stars Merle Haggard, Willie Nelson, Roy Orbison,\nGeorge Jones and John Fogerty. He is a member of the Country\nMusic Hall of Fame.\nFrizzell was born in Corsicana in east Texas, but shortly\nafter his birth he moved with his family to El Dorado in\nsouthern...",
             "birthyear": "1928",
+            "activeyear": "1950",
             "am": "lefty-frizzell-p1617",
             "name_short": "FRIZZELL",
             "ints": {
@@ -4175,6 +4271,7 @@ var music = {
             "name": "Lou Reed",
             "abstract": "Lewis Allan \"Lou\" Reed (born on March 2, 1942) is an\nAmerican rock musician, songwriter, and photographer. He is\nbest known as guitarist, vocalist, and principal songwriter\nof The Velvet Underground, and for his successful solo\ncareer, which spans several decades and crosses multiple\ngenres. The Velvet Underground gained little mainstream\nattention during their career, but became one of the most\ninfluential bands of their era. As the Velvet Underground's\nmain songwriter, Reed wrote about...",
             "birthyear": "1942",
+            "activeyear": "1972",
             "am": "lou-reed-p5247",
             "name_short": "REED",
             "ints": {
@@ -4214,6 +4311,7 @@ var music = {
             "name": "Boogie Down Productions",
             "abstract": "Boogie Down Productions was a hip hop group that originally\ncomprised KRS-One, D-Nice, and DJ Scott La Rock. DJ Scott La\nRock was murdered on August 27, 1987, months after the\nrelease of BDP's debut album, Criminal Minded.\nThe name of the group, Boogie Down, derives from a nickname\nfor the South Bronx, one of the five boroughs of New York\nCity. The group pioneered the fusion of dancehall reggae and\nhip hop music and their debut LP Criminal Minded contained\nfrank descriptions of life in the...",
             "birthyear": "1986",
+            "activeyear": "1986",
             "am": "boogie-down-productions-p14",
             "name_short": "PRODUCTIONS",
             "ints": {
@@ -4243,6 +4341,7 @@ var music = {
             "name": "Chet Atkins",
             "abstract": "Chester Burton Atkins (June 20, 1924 \u2013 June 30, 2001),\nbetter known as Chet Atkins, was an American guitarist and\nrecord producer who created, along with Owen Bradley, the\nsmoother country music style known as the Nashville sound,\nwhich expanded country's appeal to adult pop music fans as\nwell.\nAtkins's picking style, inspired by Merle Travis, Django\nReinhardt, George Barnes and Les Paul, brought him admirers\nwithin and outside the country scene, both in the United\nStates and...",
             "birthyear": "1924",
+            "activeyear": "1951",
             "am": "chet-atkins-p1510",
             "name_short": "ATKINS",
             "ints": {
@@ -4273,6 +4372,7 @@ var music = {
             "name": "King Crimson",
             "abstract": "King Crimson is a rock band founded in London, England in\n1969. Often categorised as a foundational progressive rock\ngroup, the band has incorporated diverse influences and\ninstrumentation during its history (including jazz and folk\nmusic, classical and experimental music, psychedelic rock,\nhard rock and heavy metal, new wave, gamelan, electronica\nand drum and bass). The band has been influential on many\ncontemporary musical artists, and has gained a large cult\nfollowing despite garnering...",
             "birthyear": "1969",
+            "activeyear": "1969",
             "am": "king-crimson-p4682",
             "name_short": "KING CRIMSON",
             "ints": {
@@ -4307,6 +4407,7 @@ var music = {
             "name": "Gram Parsons",
             "abstract": "Gram Parsons (November 5, 1946\u00a0\u2013 September 19, 1973) was\nan American singer, songwriter, guitarist and pianist.\nParsons is best known for his work within the country genre;\nhe also mixed blues, folk, and rock to create what he called\n\"Cosmic American Music\". Besides recording as a solo artist,\nhe also worked in several notable bands, including the\nInternational Submarine Band, The Byrds and The Flying\nBurrito Brothers. His career, though short, is described by\nAllmusic as \"enormously...",
             "birthyear": "1946",
+            "activeyear": "1973",
             "am": "gram-parsons-p5109",
             "name_short": "PARSONS",
             "ints": {
@@ -4341,6 +4442,7 @@ var music = {
             "name": "Thelonious Monk",
             "abstract": "Thelonious Sphere Monk (October 10, 1917 \u2013 February 17,\n1982) was an American jazz pianist and composer considered\n\"one of the giants of American music\". Monk had a unique\nimprovisational style and made numerous contributions to the\nstandard jazz repertoire, including \"Epistrophy\", \"'Round\nMidnight\", \"Blue Monk\", \"Straight, No Chaser\" and \"Well, You\nNeedn't\". Monk is the second most recorded jazz composer\nafter Duke Ellington, which is particularly remarkable as\nEllington composed over 1,000...",
             "birthyear": "1917",
+            "activeyear": "1955",
             "am": "thelonious-monk-p106839",
             "name_short": "MONK",
             "ints": {
@@ -4370,6 +4472,7 @@ var music = {
             "name": "The Drifters",
             "abstract": "The Drifters are a long-lived American doo-wop\/R&B vocal\ngroup with a peak in popularity from 1953 to 1963, though\nseveral splinter Drifters continue to perform today. They\nwere originally formed to serve as Clyde McPhatter's (of\nBilly Ward & the Dominoes) backing group in 1953. Rolling\nStone magazine states that the Drifters were the least\nstable of the vocal groups due to being low-paid hired\nmusicians of their management. The Treadwell Drifters\nwebsite states that there have been 60...",
             "birthyear": "1953",
+            "activeyear": "1954",
             "am": "the-drifters-p4136",
             "name_short": "DRIFTERS",
             "ints": {
@@ -4395,6 +4498,7 @@ var music = {
             "name": "Scott Walker",
             "abstract": "Scott Walker, born Noel Scott Engel on January 9, 1943, to\nGerman parents, is an American singer-songwriter, musician,\nrecord producer, and the former lead singer of The Walker\nBrothers. Despite being American born, Walker's chart\nsuccess has largely come in the United Kingdom, where his\nfirst four solo albums reached the top ten. Walker has lived\nin the UK since 1965. He continues to release solo material\nand is currently signed to 4AD.\nOriginally championed by Eddie Fisher in the late...",
             "birthyear": "1943",
+            "activeyear": "1966",
             "am": "scott-walker-p21307",
             "name_short": "WALKER",
             "ints": {
@@ -4430,6 +4534,7 @@ var music = {
             "name": "The Hollies",
             "abstract": "The Hollies are an English pop and rock group, formed in\nManchester in the early 1960s, though most of the band\nmembers are from throughout East Lancashire. Known for their\ndistinctive vocal harmony style, they became one of the\nleading British groups of the 1960s and 1970s. They enjoyed\nconsiderable popularity in many countries, although they did\nnot achieve major US chart success until 1966. Along with\nThe Rolling Stones and The Searchers, they are one of the\nfew British pop groups of the...",
             "birthyear": "1963",
+            "activeyear": "1963",
             "am": "the-hollies-p13209",
             "name_short": "HOLLIES",
             "ints": {
@@ -4470,6 +4575,7 @@ var music = {
             "name": "Joni Mitchell",
             "abstract": "Joni Mitchell, CC, (born Roberta Joan Anderson; November 7,\n1943) is a Canadian musician, songwriter, and painter.\nMitchell began singing in small nightclubs in her native\nWestern Canada and then busking on the streets of Toronto.\nIn the mid-1960s she left for New York City and its rich\nfolk music scene, recording her debut album in 1968 and\nachieving fame first as a songwriter (\"Urge for Going\",\n\"Chelsea Morning\", \"Both Sides, Now\", \"Woodstock\") and then\nas a singer in her own right....",
             "birthyear": "1943",
+            "activeyear": "1968",
             "am": "joni-mitchell-p4930",
             "name_short": "MITCHELL",
             "ints": {
@@ -4505,6 +4611,7 @@ var music = {
             "name": "Stevie Wonder",
             "abstract": "Stevland Hardaway Judkins (born May 13, 1950), name later\nchanged to Stevland Hardaway Morris, known by his stage name\nStevie Wonder, is an American singer-songwriter,\nmulti-instrumentalist, record producer and activist. Blind\nsince shortly after birth, Wonder signed with Motown\nRecords' Tamla label at the age of eleven, and continues to\nperform and record for Motown to this day.\nAmong Wonder's best known works are singles such as\n\"Superstition\", \"Sir Duke\", \"I Wish\" and \"I Just Called\nto...",
             "birthyear": "1950",
+            "activeyear": "1962",
             "am": "stevie-wonder-p139462",
             "name_short": "WONDER",
             "ints": {
@@ -4540,6 +4647,7 @@ var music = {
             "name": "Cheap Trick",
             "abstract": "Cheap Trick is an American rock band from Rockford,\nIllinois, formed in 1973. The band consists of members Robin\nZander (lead vocals, rhythm guitar), Rick Nielsen (lead\nguitar, backing vocals), Tom Petersson (bass guitar, backing\nvocals), and Bun E. Carlos (drums, percussion).\nCheap Trick created a substantial fan base through its own\nbrand of power pop music with a hard-edged yet melodic pop\nsound that combined the catchiness of The Beatles with the\nspeed and energy of punk rock. The Los...",
             "birthyear": "1972",
+            "activeyear": "1977",
             "am": "cheap-trick-p3879",
             "name_short": "CHEAP TRICK",
             "ints": {
@@ -4582,6 +4690,7 @@ var music = {
             "name": "The Animals",
             "abstract": "The Animals were an English music group of the 1960s formed\nin Newcastle upon Tyne during the early part of the decade,\nand later relocated to London. Known for their gritty,\nbluesy sound and deep-voiced frontman Eric Burdon, as\nexemplified by their number one signature song \"The House of\nthe Rising Sun\" as well as by hits such as \"We Gotta Get Out\nof This Place\", \"It's My Life\" and \"Don't Let Me Be\nMisunderstood\", the band balanced tough, rock-edged pop\nsingles against rhythm and...",
             "birthyear": "1963",
+            "activeyear": "1964",
             "am": "the-animals-p3555",
             "name_short": "ANIMALS",
             "ints": {
@@ -4624,6 +4733,7 @@ var music = {
             "name": "The Damned",
             "abstract": "The Damned are an English gothic punk band formed in London\nin 1976. They were the first punk rock band from the United\nKingdom to release a single (\"New Rose\"), an album (Damned\nDamned Damned), to have a record on the UK music charts, and\nto tour the United States. The Damned later evolved into one\nof the forerunners of the gothic genre.\nThey have incorporated numerous styles into their music and\nimage, including: garage rock, psychedelic rock, cabaret,\nand the theatrical rock of Screaming...",
             "birthyear": "1976",
+            "activeyear": "1976",
             "am": "the-damned-p4021",
             "name_short": "DAMNED",
             "ints": {
@@ -4661,6 +4771,7 @@ var music = {
             "name": "Patti Smith",
             "abstract": "Patricia Lee \"Patti\" Smith (born December 30, 1946) is an\nAmerican singer-songwriter, poet and visual artist, who\nbecame a highly influential component of the New York City\npunk rock movement with her 1975 debut album Horses. Called\nthe \"Godmother of Punk\", her work was a fusion of rock and\npoetry. Smith's most widely known song is \"Because the\nNight\", which was co-written with Bruce Springsteen and\nreached number 13 on the Billboard Hot 100 chart in 1978. In\n2005, Patti Smith was named a...",
             "birthyear": "1946",
+            "activeyear": "1974",
             "am": "patti-smith-p126485",
             "name_short": "SMITH",
             "ints": {
@@ -4695,6 +4806,7 @@ var music = {
             "name": "Public Enemy",
             "abstract": "Public Enemy is an American hip hop group consisting of\nChuck D; Flavor Flav; Professor Griff and his S1W group; DJ\nLord; Hype man Daniel Mcgowan, who replaced Terminator X in\n1999; guitarist Khari Wynn; and bassist Brian Hardgroove.\nFormed on Long Island, New York in 1982, Public Enemy are\nknown for their politically charged lyrics and criticism of\nthe American media, with an active interest in the\nfrustrations and concerns of the African American community.\nIn 2004, Rolling Stone Magazine...",
             "birthyear": "1982",
+            "activeyear": "1987",
             "am": "public-enemy-p86",
             "name_short": "ENEMY",
             "ints": {
@@ -4728,6 +4840,7 @@ var music = {
             "name": "Thin Lizzy",
             "abstract": "Thin Lizzy are an Irish hard rock band formed in Dublin in\n1969. The two founding members, drummer Brian Downey and\nbass guitarist\/vocalist Phil Lynott met while still in\nschool. Lynott took up the role of frontman and led them\nthroughout their recording career of thirteen studio albums.\nThin Lizzy are best known for their songs \"Whiskey in the\nJar\", \"Jailbreak\" and \"The Boys Are Back in Town\", all major\ninternational hits still played regularly on hard rock and\nclassic rock radio stations....",
             "birthyear": "1969",
+            "activeyear": "1970",
             "am": "thin-lizzy-p5633",
             "name_short": "LIZZY",
             "ints": {
@@ -4765,6 +4878,7 @@ var music = {
             "name": "The Ronettes",
             "abstract": "The Ronettes were a 1960s girl group from New York City,\nbest known for their work with producer Phil Spector. The\ngroup consisted of lead singer Veronica Bennett (later known\nas Ronnie Spector); her sister, Estelle Bennett; and their\ncousin Nedra Talley. They reached the peak of their success\nafter releasing Presenting the Fabulous Ronettes Featuring\nVeronica in 1964. Some of the group's most famous songs\ninclude \"Be My Baby\", \"Baby, I Love You\", \"(The Best Part\nOf) Breakin' Up\", and...",
             "birthyear": "1959",
+            "activeyear": "1962",
             "am": "the-ronettes-p20251",
             "name_short": "RONETTES",
             "ints": {
@@ -4791,6 +4905,7 @@ var music = {
             "name": "Sonic Youth",
             "abstract": "Sonic Youth is an American rock band from New York City,\nformed in 1981. The current lineup consists of Thurston\nMoore (vocals and guitar), Kim Gordon (vocals, bass,\nguitar), Lee Ranaldo (vocals and guitar), Steve Shelley\n(drums), Mark Ibold (bass, guitar)\nIn their early career, Sonic Youth was associated with the\nNo Wave art and music scene in New York City. Part of the\nfirst wave of American noise rock groups, the band carried\nout their interpretation of the hardcore punk ethos\nthroughout...",
             "birthyear": "1981",
+            "activeyear": "1983",
             "am": "sonic-youth-p5474",
             "name_short": "SONIC YOUTH",
             "ints": {
@@ -4835,6 +4950,7 @@ var music = {
             "name": "Leonard Cohen",
             "abstract": "Leonard Norman Cohen, CC, GOQ (born 21 September 1934) is a\nCanadian singer-songwriter, musician, poet and novelist.\nCohen published his first book of poetry in Montr\u00e9al in\n1956 and his first novel in 1963. His work often explores\nreligion, isolation, sexuality and interpersonal\nrelationships. Famously reclusive, having once spent several\nyears in a Zen Buddhist monastery, and possessing a persona\nfrequently associated with mystique, he is extremely\nwell-regarded by critics for his literary...",
             "birthyear": "1934",
+            "activeyear": "1968",
             "am": "leonard-cohen-p1948",
             "name_short": "COHEN",
             "ints": {
@@ -4869,6 +4985,7 @@ var music = {
             "name": "Eric Clapton",
             "abstract": "Eric Patrick Clapton, CBE (born 30 March 1945) is an English\nguitarist, vocalist, and songwriter. Clapton is the only\nthree-time inductee to the Rock and Roll Hall of Fame: once\nas a solo artist, and separately as a member of The\nYardbirds and Cream. Clapton has been referred to as one of\nthe most important and influential guitarists of all time.\nClapton ranked fourth in Rolling Stone magazine's list of\nthe \"100 Greatest Guitarists of All Time\" and fourth in\nGibson's Top 50 Guitarists of All...",
             "birthyear": "1945",
+            "activeyear": "1965",
             "am": "eric-clapton-p64692",
             "name_short": "CLAPTON",
             "ints": {
@@ -4908,6 +5025,7 @@ var music = {
             "name": "John Lennon",
             "abstract": "John Winston Ono Lennon, MBE (9\u00a0October 1940 \u2013\n8\u00a0December 1980) was an English musician and\nsinger-songwriter who rose to worldwide fame as one of the\nfounding members of The Beatles, one of the most\ncommercially successful and critically acclaimed acts in the\nhistory of popular music. Along with fellow Beatle Paul\nMcCartney, he formed one of the most successful songwriting\npartnerships of the 20th century.\nBorn and raised in Liverpool, Lennon became involved as a\nteenager in the skiffle...",
             "birthyear": "1957",
+            "activeyear": "1969",
             "am": "john-lennon-p4744",
             "name_short": "LENNON",
             "ints": {
@@ -4950,6 +5068,7 @@ var music = {
             "name": "LL Cool J",
             "abstract": "James Todd Smith (born January 14, 1968), better known as LL\nCool J (acronym for Ladies Love Cool James) is an American\nrapper and actor. He is known for romantic ballads such as\n\"I Need Love\", \"Around the Way Girl\" and \"Hey Lover\" as well\nas pioneering hip-hop such as \"I Can't Live Without My\nRadio\", \"I'm Bad\", \"The Boomin' System\", and \"Mama Said\nKnock You Out\". He has released thirteen studio albums and\ntwo greatest hits compilations, including 2008's Exit 13,\nthe last for his record deal...",
             "birthyear": "1968",
+            "activeyear": "1984",
             "am": "ll-cool-j-p95754",
             "name_short": "LL COOL J",
             "ints": {
@@ -4978,6 +5097,7 @@ var music = {
             "name": "Aretha Franklin",
             "abstract": "Aretha Louise Franklin (born March 25, 1942) is an American\nsinger, songwriter, and pianist. Although known for her soul\nrecordings and referred to as The Queen of Soul, Franklin is\nadept at jazz, blues, R&B, and gospel music. Rolling Stone\nmagazine ranked her atop its list of The Greatest Singers of\nAll Time.\nFranklin is one of the most honored artists by the Grammy\nAwards, with 18 competitive Grammys and two honorary\nGrammys. She has 20 #1 singles on the Billboard R&B Singles\nChart and two...",
             "birthyear": "1942",
+            "activeyear": "1956",
             "am": "aretha-franklin-p4305",
             "name_short": "FRANKLIN",
             "ints": {
@@ -5018,6 +5138,7 @@ var music = {
             "name": "Merle Haggard",
             "abstract": "Merle Ronald Haggard (born April 6, 1937) is an American\ncountry music singer, guitarist, fiddler, instrumentalist,\nand songwriter. Along with Buck Owens, Haggard and his band\nThe Strangers helped create the Bakersfield Sound, which is\ncharacterized by the unique twang of Fender Telecaster\nguitars, vocal harmonies, and a rough edge not heard on the\nmore polished Nashville Sound recordings of the same era.\nBy the 1970s, Haggard was aligned with the growing outlaw\ncountry movement, and has...",
             "birthyear": "1937",
+            "activeyear": "1963",
             "am": "merle-haggard-p1640",
             "name_short": "HAGGARD",
             "ints": {
@@ -5047,6 +5168,7 @@ var music = {
             "name": "Mahalia Jackson",
             "abstract": "Mahalia Jackson (pronounced \/m\u0259\u02c8he\u026alj\u0259\/ m\u0259-HAIL-y\u0259;\nOctober 26, 1911 \u2013 January 27, 1972) was an\nAfrican-American gospel singer. Possessing a powerful\ncontralto voice, she was referred to as \"The Queen of\nGospel\". Jackson became one of the most influential gospel\nsingers in the world, and was heralded internationally as a\nsinger and civil rights activist; entertainer Harry\nBelafonte called her \"the single most powerful black woman\nin the United States\". She recorded about 30 albums\n(mostly...",
             "birthyear": "1911",
+            "activeyear": "1947",
             "am": "mahalia-jackson-p2316",
             "name_short": "JACKSON",
             "ints": {
@@ -5072,6 +5194,7 @@ var music = {
             "name": "Mission of Burma",
             "abstract": "Mission of Burma is an American post-punk band formed in\nBoston, Massachusetts in 1979. The band was formed by Roger\nMiller (guitar), Clint Conley (bass), Peter Prescott (drums)\nand Martin Swope (tape manipulator\/sound engineer). Miller,\nConley and Prescott share singing and songwriting duties.\nIn early years the band's recordings were all released on\nthe small Boston-based record label Ace of Hearts. Despite\ninitial success, Mission of Burma disbanded in 1983 due to\nMiller's development of...",
             "birthyear": "1979",
+            "activeyear": "1980",
             "am": "mission-of-burma-p4928",
             "name_short": "MISSION OF BURMA",
             "ints": {
@@ -5106,6 +5229,7 @@ var music = {
             "name": "Albert King",
             "abstract": "Albert King (April 25, 1923 \u2013 December 21, 1992) was an\nAmerican blues guitarist and singer.\nOne of the \"Three Kings of the Blues Guitar\" (along with B.\nB. King and Freddie King), Albert King stood 6' 4\" (192\u00a0cm)\n(some reports say 6' 7\") and weighed 250\u00a0lbs (118\u00a0kg) and\nwas known as \"The Velvet Bulldozer\". He was born Albert\nNelson on a cotton plantation in Indianola, Mississippi.\nDuring his childhood he would sing at a family gospel group\nat a church. One of 13 children, King grew up...",
             "birthyear": "1923",
+            "activeyear": "1959",
             "am": "albert-king-p93943",
             "name_short": "KING",
             "ints": {
@@ -5137,6 +5261,7 @@ var music = {
             "name": "Dinah Washington",
             "abstract": "Dinah Washington (August 29, 1924 \u2013 December 14, 1963),\nborn Ruth Lee Jones, was a blues, R&B and jazz singer. She\nhas been cited as \"the most popular black female recording\nartist of the '50s\", and called \"The Queen of the Blues\".\nShe is a 1986 inductee of the Alabama Jazz Hall of Fame, and\nwas inducted into the Rock and Roll Hall of Fame in 1993.\nRuth Jones was born in Tuscaloosa, Alabama, and moved to\nChicago as a child. She sang gospel music in church and\nplayed piano, directing her...",
             "birthyear": "1924",
+            "activeyear": "1944",
             "am": "dinah-washington-p7773",
             "name_short": "WASHINGTON",
             "ints": {
@@ -5171,6 +5296,7 @@ var music = {
             "name": "Grateful Dead",
             "abstract": "The Grateful Dead was an American rock band formed in 1965\nin the San Francisco Bay Area. The band was known for its\nunique and eclectic style, which fused elements of rock,\nfolk, bluegrass, blues, reggae, country, improvisational\njazz, psychedelia, and space rock\u2014and for live\nperformances of long musical improvisation. \"Their music,\"\nwrites Lenny Kaye, \"touches on ground that most other groups\ndon't even know exists.\"These various influences were\ndistilled into a diverse and psychedelic...",
             "birthyear": "1965",
+            "activeyear": "1967",
             "am": "grateful-dead-p4397",
             "name_short": "GRATEFUL DEAD",
             "ints": {
@@ -5209,6 +5335,7 @@ var music = {
             "name": "The Shangri-Las",
             "abstract": "The Shangri-Las were an American pop girl group of the\n1960s. Between 1964 and 1966 they charted with often\nheartbreaking teen melodramas, and remain best known for\n\"Leader of the Pack\" and \"Remember (Walkin' in the Sand)\".\nThe group was formed at Andrew Jackson High School in\nCambria Heights, a part of Queens, New York City, in 1963.\nIt consisted of two sets of sisters: Mary Weiss (lead\nsinger) (born 1948) and Elizabeth \"Betty\" Weiss (born 1946),\nand identical twins Marguerite \"Marge\" (4...",
             "birthyear": "1963",
+            "activeyear": "1963",
             "am": "the-shangri-las-p124063",
             "name_short": "SHANGRI-LAS",
             "ints": {
@@ -5234,6 +5361,7 @@ var music = {
             "name": "Etta James",
             "abstract": "Etta James (born Jamesetta Hawkins, January 25, 1938) is an\nAmerican blues, soul, R&B, rock & roll, gospel and jazz\nsinger and songwriter. James is the winner of four Grammys\nand seventeen Blues Music Awards. She was inducted into the\nRock & Roll Hall of Fame in 1993, the Blues Hall of Fame in\n2001, and the Grammy Hall of Fame in both 1999 and 2008. In\nthe 1950s and 1960s, she had her biggest success as a blues\nand R&B singer. She is best known for performing her song\n\"At Last\", which has...",
             "birthyear": "1938",
+            "activeyear": "1955",
             "am": "etta-james-p387",
             "name_short": "JAMES",
             "ints": {
@@ -5266,6 +5394,7 @@ var music = {
             "name": "The Temptations",
             "abstract": "The Temptations are an American vocal group that achieved\nfame as one of the most successful acts to record for Motown\nRecords. The group's repertoire has included, at various\ntimes during its five-decade career, R&B, doo-wop, funk,\ndisco, soul, and adult contemporary music.\nFormed in Detroit, Michigan, in 1960 as The Elgins (not to\nbe confused with another Motown group with the same name),\nthe Temptations have always featured at least five male\nvocalists\/dancers. Known for its recognizable...",
             "birthyear": "1960",
+            "activeyear": "1961",
             "am": "the-temptations-p5616",
             "name_short": "TEMPTATIONS",
             "ints": {
@@ -5297,6 +5426,7 @@ var music = {
             "name": "Gary Numan",
             "abstract": "Gary Numan (born Gary Anthony James Webb on 8 March 1958) is\nan English singer, composer, and musician, most widely known\nfor his chart-topping 1979 hits \"Are 'Friends' Electric?\"\nwith his band Tubeway Army and his song \"Cars\". His\nsignature sound consisted of heavy synthesizer hooks fed\nthrough guitar effects pedals.\nNuman is considered a pioneer of commercial electronic\nmusic. His use of themes from science fiction, and his\ncombination of aggressive punk energy with electronics, have\nsince...",
             "birthyear": "1958",
+            "activeyear": "1979",
             "am": "gary-numan-p5049",
             "name_short": "NUMAN",
             "ints": {
@@ -5341,6 +5471,7 @@ var music = {
             "name": "The Zombies",
             "abstract": "The Zombies are an English rock band. Formed in 1961 in St\nAlbans and led by Rod Argent on piano and Colin Blunstone on\nvocals, the band scored US hits in the mid- and late-1960s\nwith \"She's Not There\", \"Tell Her No\", and \"Time of the\nSeason\". Their 1968 album Odessey and Oracle, comprising\ntwelve songs by the group's principal songwriters, Argent\nand Chris White, is ranked 80 on Rolling Stone magazine's\nlist of the 500 Greatest Albums of All Time.\nThe group formed in 1961 in St Albans,...",
             "birthyear": "1961",
+            "activeyear": "1964",
             "am": "the-zombies-p5908",
             "name_short": "ZOMBIES",
             "ints": {
@@ -5377,6 +5508,7 @@ var music = {
             "name": "Elvis Costello",
             "abstract": "Declan Patrick MacManus (born 25 August 1954), known by the\nstage name Elvis Costello, is an English singer-songwriter.\nHe came to prominence as an early participant in London's\npub rock scene in the mid-1970s and later became associated\nwith the punk\/New Wave genre. Steeped in word play, the\nvocabulary of Costello's lyrics is broader than that of most\npopular songs. His music has drawn on many diverse genres;\none critic described him as a \"pop encyclopedia,\" able to\n\"reinvent the past in...",
             "birthyear": "1954",
+            "activeyear": "1977",
             "am": "elvis-costello-p3968",
             "name_short": "COSTELLO",
             "ints": {
@@ -5416,6 +5548,7 @@ var music = {
             "name": "Creedence Clearwater Revival",
             "abstract": "Creedence Clearwater Revival (often abbreviated CCR) was an\nAmerican rock band that gained popularity in the late 1960s\nand early 1970s with a number of successful singles drawn\nfrom various albums.\nThe group consisted of lead vocalist, lead guitarist, and\nprimary songwriter John Fogerty, his brother and rhythm\nguitarist Tom Fogerty, bassist Stu Cook, and drummer Doug\nClifford. Their musical style encompassed rock and swamp\nrock genres. Despite their San Francisco Bay Area origins,\nthey...",
             "birthyear": "1959",
+            "activeyear": "1968",
             "am": "creedence-clearwater-revival-p3985",
             "name_short": "CCR",
             "ints": {
@@ -5459,6 +5592,7 @@ var music = {
             "name": "The Cars",
             "abstract": "The Cars are an American rock band that emerged from the\nearly New Wave music scene in the late 1970s. The band\nconsisted of lead singer and rhythm guitarist Ric Ocasek,\nlead singer and bassist Benjamin Orr, guitarist Elliot\nEaston, keyboardist Greg Hawkes and drummer David Robinson.\nThe band originated from Boston, Massachusetts, and were\nsigned to Elektra Records in 1977.\nThe Cars were at the forefront in merging 1970s\nguitar-oriented rock with the new synth-oriented pop that\nwas then...",
             "birthyear": "1976",
+            "activeyear": "1978",
             "am": "the-cars-p3850",
             "name_short": "CARS",
             "ints": {
@@ -5508,6 +5642,7 @@ var music = {
             "name": "The Allman Brothers Band",
             "abstract": "The Allman Brothers Band is an American rock band once based\nin Macon, Georgia. The band was formed in Jacksonville,\nFlorida, in 1969 by brothers Duane Allman (slide guitar and\nlead guitar) and Gregg Allman (vocals, organ, songwriting),\nwho were supported by Dickey Betts (lead guitar, vocals,\nsongwriting), Berry Oakley (bass guitar), Butch Trucks\n(drums), and Jai Johanny \"Jaimoe\" Johanson (drums). While\nthe band has been called the principal architects of\nSouthern rock, they also incorporate...",
             "birthyear": "1969",
+            "activeyear": "1970",
             "am": "the-allman-brothers-band-p3525",
             "name_short": "ALLMAN BROTHERS",
             "ints": {
@@ -5549,6 +5684,7 @@ var music = {
             "name": "Elton John",
             "abstract": "Sir Elton Hercules John, CBE (born Reginald Kenneth Dwight;\n25 March 1947) is an English singer-songwriter, composer and\npianist. He has worked with his songwriting partner Bernie\nTaupin since 1967; they have collaborated on more than 30\nalbums to date.\nIn his four-decade career John has sold more than\n250\u00a0million records, making him one of the most successful\nartists of all time. His single \"Candle in the Wind 1997\"\nhas sold over 33\u00a0million copies worldwide, and is the best\nselling single...",
             "birthyear": "1962",
+            "activeyear": "1968",
             "am": "elton-john-p4617",
             "name_short": "JOHN",
             "ints": {
@@ -5587,6 +5723,7 @@ var music = {
             "name": "The Cure",
             "abstract": "The Cure are an English rock band formed in Crawley, West\nSussex in 1976. The band has experienced several line-up\nchanges, with frontman, vocalist, guitarist and principal\nsongwriter Robert Smith being the only constant member. The\nCure first began releasing music in the late 1970s with\ntheir debut album Three Imaginary Boys (1979); this, along\nwith several early singles, placed the band as part of the\npost-punk and New Wave movements that had sprung up in the\nwake of the punk rock...",
             "birthyear": "1977",
+            "activeyear": "1978",
             "am": "the-cure-p4004",
             "name_short": "CURE",
             "ints": {
@@ -5628,6 +5765,7 @@ var music = {
             "name": "Tammy Wynette",
             "abstract": "Virginia Wynette Pugh, known professionally as Tammy Wynette\n(May 5, 1942 \u2013 April 6, 1998), was an American country\nmusic singer-songwriter and one of country music's\nbest-known artists and biggest-selling female vocalists.\nShe was known as the First Lady of Country Music, and her\nbest-known song, \"Stand by Your Man\", was one of the biggest\nselling hit singles by a woman in the history of the country\nmusic genre. Many of Tammy Wynette's hits dealt with classic\nthemes of loneliness, divorce...",
             "birthyear": "1942",
+            "activeyear": "1967",
             "am": "tammy-wynette-p1883",
             "name_short": "WYNETTE",
             "ints": {
@@ -5657,6 +5795,7 @@ var music = {
             "name": "Melvins",
             "abstract": "The Melvins are an American rock band that formed in 1983.\nThey usually perform as a trio, but in recent years have\nperformed as a four piece with two drummers. Since 1984,\nsinger and guitarist Buzz Osborne (also known as King Buzzo)\nand drummer Dale Crover have been the band's constant\nmembers. They are said to be \"The Godfathers of grunge\nmusic.\" The band was named after a supervisor at a Thriftway\nin Montesano, Washington, where Osborne also worked as a\nclerk. \"Melvin\" was despised by...",
             "birthyear": "1983",
+            "activeyear": "1986",
             "am": "melvins-p13661",
             "name_short": "MELVINS",
             "ints": {
@@ -5702,6 +5841,7 @@ var music = {
             "name": "Badfinger",
             "abstract": "Badfinger was a UK rock band consisting originally of Pete\nHam, Ron Griffiths, Mike Gibbins and Tom Evans, active from\n1968 to 1983, and evolving from The Iveys first formed by\nHam, Griffiths and David \"Dai\" Jenkins in Swansea, Wales in\nthe early 1960s. Joey Molland joined the band in 1969\nfollowing the departure of Griffiths. Picked up by the\nBeatles' Apple label in 1968, in 1969 they adopted the name\nBadfinger. Initially drawing Beatle comparisons on account\nof some musical resemblance and...",
             "birthyear": "1949",
+            "activeyear": "1969",
             "am": "badfinger-p3612",
             "name_short": "BADFINGER",
             "ints": {
@@ -5735,6 +5875,7 @@ var music = {
             "name": "Willie Nelson",
             "abstract": "Willie Hugh Nelson (born April 30, 1933) is an American\ncountry singer-songwriter, author, poet, actor, and\nactivist. Nelson started studying music from mail order\nmaterial that his grandparents gave him. He wrote his first\nsong at age seven and joined his first band at nine. During\nhigh school, he toured locally with the Bohemian Fiddlers as\ntheir lead singer and guitar player. After graduating from\nhigh school in 1950, he joined the air force. However, he\nwas discharged due to back...",
             "birthyear": "1933",
+            "activeyear": "1957",
             "am": "willie-nelson-p1743",
             "name_short": "NELSON",
             "ints": {
@@ -5771,6 +5912,7 @@ var music = {
             "name": "Loretta Lynn",
             "abstract": "Loretta Lynn (born Loretta Webb; April 14, 1932) is an\nAmerican country music singer-songwriter, author and\nphilanthropist.\nBorn in Kentucky to a coal miner father, she married at 13\nyears old, was a mother soon after, and moved to Washington\nwith her husband, Oliver Vanetta Lynn. Their marriage was\nsometimes tumultuous; he had affairs and she was headstrong.\nTheir experiences together became inspiration for her music.\nWhen she was 24 years old, Lynn's husband bought her a\nguitar. She taught...",
             "birthyear": "1935",
+            "activeyear": "1960",
             "am": "loretta-lynn-p1703",
             "name_short": "LYNN",
             "ints": {
@@ -5801,6 +5943,7 @@ var music = {
             "name": "Throbbing Gristle",
             "abstract": "Throbbing Gristle was an English avant-garde music and\nvisual arts group that evolved from the performance art\ngroup COUM Transmissions. The band consisted of Genesis\nP-Orridge (aka Neil Megson - bass guitar, violin, vocals,\nvibraphone), Cosey Fanni Tutti (guitars, cornet, vocals),\nPeter \"Sleazy\" Christopherson (tapes, found sounds, horns,\nvibraphone, synthesizer), and Chris Carter (synthesizers,\ntapes, electronics).\nThrobbing Gristle evolved from the performance art group\nCOUM...",
             "birthyear": "1975",
+            "activeyear": "1978",
             "am": "throbbing-gristle-p5651",
             "name_short": "GRISTLE",
             "ints": {
@@ -5835,6 +5978,7 @@ var music = {
             "name": "Al Green",
             "abstract": "Albert Greene (born April 13, 1946), better known as Al\nGreen, is an American gospel and soul music singer. He\nreached the peak of his popularity in the 1970s, with hit\nsingles such as \"You Oughta Be With Me,\" \"I'm Still In Love\nWith You,\" \"Love and Happiness\", and \"Let's Stay Together\".\nIn 2005, Rolling Stone named him #65 in their list of the\n'100 Greatest Artists of All Time'. The nomination, written\nby Justin Timberlake, stated that \"people are born to do\ncertain things, and Al was born...",
             "birthyear": "1946",
+            "activeyear": "1967",
             "am": "al-green-p4403",
             "name_short": "GREEN",
             "ints": {
@@ -5867,6 +6011,7 @@ var music = {
             "name": "Lynyrd Skynyrd",
             "abstract": "Lynyrd Skynyrd ( \/\u02ccl\u026an\u0259rd \u02c8sk\u026an\u0259rd\/\nLIN-\u0259rd-SKIN-\u0259rd, often mispronounced \/\u02ccl\u025bn\u0259rd\n\u02c8sk\u026an\u0259rd\/ LEN-\u0259rd-SKIN-\u0259rd) is an American rock band,\nformed in Jacksonville, Florida in 1964. The band became\nprominent in the Southern United States in 1973, and rose to\nworldwide recognition. Three members and one road crew\nmember died in an airplane crash in 1977; the band reformed\nin 1987 for a reunion tour with lead singer Ronnie Van\nZant's younger brother Johnny as the frontman. Lynyrd\nSkynyrd continues...",
             "birthyear": "1964",
+            "activeyear": "1968",
             "am": "lynyrd-skynyrd-p4812",
             "name_short": "LYNYRD SKYNYRD",
             "ints": {
@@ -5909,6 +6054,7 @@ var music = {
             "name": "Metallica",
             "abstract": "Metallica ( \/m\u0259\u02c8t\u00e6l\u026ak\u0259\/) is an American heavy metal\nband from Los Angeles, California, formed in 1981.\nThe band was founded when James Hetfield responded to an\nadvertisement that drummer Lars Ulrich had posted in a local\nnewspaper. The current line-up features long-time lead\nguitarist Kirk Hammett (who joined the band in 1983) and\nbassist Robert Trujillo (a member since 2003) alongside\nHetfield and Ulrich. Notable previous members of the band\ninclude former lead guitarist Dave Mustaine (who...",
             "birthyear": "1981",
+            "activeyear": "1983",
             "am": "metallica-p4906",
             "name_short": "METALLICA",
             "ints": {
@@ -5945,6 +6091,7 @@ var music = {
             "name": "Nina Simone",
             "abstract": "Eunice Kathleen Waymon (February 21, 1933 \u2013 April 21,\n2003), better known by her stage name Nina Simone\n(\/\u02c8ni\u02d0n\u0259 s\u0268\u02c8mo\u028an\/), was an American singer,\nsongwriter, pianist, arranger, and civil rights activist\nwidely associated with jazz music. Simone aspired to become\na classical pianist while working in a broad range of styles\nincluding classical, jazz, blues, soul, folk, R&B, gospel,\nand pop.\nBorn the sixth child of a preacher's family in North\nCarolina, Nina's prodigious musical talent...",
             "birthyear": "1933",
+            "activeyear": "1958",
             "am": "nina-simone-p3149",
             "name_short": "SIMONE",
             "ints": {
@@ -5979,6 +6126,7 @@ var music = {
             "name": "Gang of Four",
             "abstract": "Gang of Four are an English post-punk group from Leeds.\nOriginal personnel were singer Jon King, guitarist Andy\nGill, bass guitarist Dave Allen and drummer Hugo Burnham.\nThey were fully active from 1977 to 1984, and then\nre-emerged twice in the 1990s with King and Gill. In 2004,\nthe original line-up reunited but in November 2006 Allen was\nreplaced on bass by Thomas McNeice and Burnham on drums by\nMark Heaney.\nThey play a stripped-down mix of punk rock, with strong\nelements of funk music,...",
             "birthyear": "1977",
+            "activeyear": "1978",
             "am": "gang-of-four-p4337",
             "name_short": "FOUR",
             "ints": {
@@ -6009,6 +6157,7 @@ var music = {
             "name": "Judas Priest",
             "abstract": "Judas Priest are an English heavy metal band from\nBirmingham, formed in 1968. Judas Priest's core line-up\nconsists of vocalist Rob Halford, guitarists Glenn Tipton,\nK.K. Downing, and bassist Ian Hill. The band has gone\nthrough several drummers over the years, though Scott Travis\nhas held the position since 1989, and is the band's\nlongest-serving drummer. They have been cited as an\ninfluence on many heavy metal musicians and bands after\nBlack Sabbath. Their popularity and status as one of the...",
             "birthyear": "1969",
+            "activeyear": "1974",
             "am": "judas-priest-p4646",
             "name_short": "PRIEST",
             "ints": {
@@ -6043,6 +6192,7 @@ var music = {
             "name": "Pixies",
             "abstract": "The Pixies are an American alternative rock band that formed\nin Boston, Massachusetts in 1986. The group consists of\nBlack Francis (vocals, rhythm guitar), Joey Santiago (lead\nguitar), Kim Deal (bass guitar, vocals), and David Lovering\n(drums). While the Pixies found only modest success in their\nhome country, they were significantly more successful in the\nUnited Kingdom and elsewhere in Europe, although never\nachieving prolonged mainstream success with their studio\nalbums. The group...",
             "birthyear": "1986",
+            "activeyear": "1988",
             "am": "pixies-p5149",
             "name_short": "PIXIES",
             "ints": {
@@ -6089,6 +6239,7 @@ var music = {
             "name": "Van Halen",
             "abstract": "Van Halen is an American hard rock band formed in Pasadena,\nCalifornia, in 1972. It has enjoyed success since the\nrelease of its debut album, Van Halen, (1978). As of 2007\nVan Halen has sold 80\u00a0million albums worldwide and has had\nthe most #1 hits on the Billboard Mainstream Rock chart.\nDuring the 1980s they also had more Billboard Hot 100 hits\nthan any other hard rock or heavy metal band. According to\nthe Recording Industry Association of America, Van Halen is\nthe 19th best-selling...",
             "birthyear": "1976",
+            "activeyear": "1978",
             "am": "van-halen-p133911",
             "name_short": "HALEN",
             "ints": {
@@ -6127,6 +6278,7 @@ var music = {
             "name": "Randy Newman",
             "abstract": "Randall Stuart \"Randy\" Newman (born November 28, 1943) is an\nAmerican singer\/songwriter, arranger, composer, and pianist\nwho is known for his mordant (and often satirical) pop songs\nand for film scores.\nNewman often writes lyrics from the perspective of a\ncharacter far removed from Newman's own experiences. For\nexample, the 1972 song \"Sail Away\" is written as a slave\ntrader's sales pitch to attract slaves, while the narrator\nof \"Political Science\" is a U.S. nationalist who complains\nof...",
             "birthyear": "1943",
+            "activeyear": "1962",
             "am": "randy-newman-p5021",
             "name_short": "NEWMAN",
             "ints": {
@@ -6156,6 +6308,7 @@ var music = {
             "name": "Jimmy Cliff",
             "abstract": "The Honourable Jimmy Cliff, OM (born James Chambers; 1 April\n1948) is a Jamaican ska and reggae singer, musician, and\nactor. He is the only currently living musician to hold the\nOrder of Merit, the highest honour that can be granted by\nthe Jamaican government for achievement in the arts and\nsciences. He is best known among mainstream audiences for\nsongs such as \"Sitting in Limbo,\" \"You Can Get It If You\nReally Want,\" and \"Many Rivers to Cross\" from the soundtrack\nto The Harder They Come,...",
             "birthyear": "1948",
+            "activeyear": "1961",
             "am": "jimmy-cliff-p2874",
             "name_short": "CLIFF",
             "ints": {
@@ -6183,6 +6336,7 @@ var music = {
             "name": "Public Image Ltd.",
             "abstract": "Public Image Ltd (PiL) are an English post-punk band formed\nby vocalist John Lydon (aka Johnny Rotten), guitarist Keith\nLevene and bassist Jah Wobble, with frequent subsequent\npersonnel changes. Lydon is the sole constant member of the\nband.\nLydon emerged after the break-up of the Sex Pistols with\nPiL's First Issue (1978). His new band had a more\nexperimental sound: Wobble's \"droning, slow-tempo,\nbass-heavy noise rock, overlaid by Lydon's distinctive,\nvituperative rant.\" Their early work is...",
             "birthyear": "1978",
+            "activeyear": "1978",
             "am": "public-image-ltd-p111839",
             "name_short": "PUBLIC IMAGE LTD.",
             "ints": {
@@ -6222,6 +6376,7 @@ var music = {
             "name": "U2",
             "abstract": "U2 are an Irish rock band from Dublin. Formed in 1976, the\ngroup consists of Bono (vocals and guitar), The Edge\n(guitar, keyboards and vocals), Adam Clayton (bass guitar),\nand Larry Mullen, Jr. (drums and percussion). U2's early\nsound was indebted to post-punk but eventually grew to\nincorporate influences from many genres of popular music.\nThroughout the group's musical pursuits, they have\nmaintained a recognisable sound built on melodic\ninstrumentals, highlighted by The Edge's textural...",
             "birthyear": "1976",
+            "activeyear": "1979",
             "am": "u2-p5723",
             "name_short": "U2",
             "ints": {
@@ -6260,6 +6415,7 @@ var music = {
             "name": "Bad Religion",
             "abstract": "Bad Religion is an American punk rock band founded in 1979\nby Jay Bentley (bass), Greg Graffin (vocals), Brett Gurewitz\n(guitars), and Jay Ziskrout (drums). They are often credited\nfor being involved in the revival of punk rock and inspiring\nseveral subsequent punk bands during the late 1980s, as well\nas influencing a large number of other punk and rock\nmusicians throughout their career. In the 32 years since its\ninception, Bad Religion has had numerous lineup changes, and\nGraffin has been...",
             "birthyear": "1980",
+            "activeyear": "1981",
             "am": "bad-religion-p3611",
             "name_short": "BAD RELIGION",
             "ints": {
@@ -6299,6 +6455,7 @@ var music = {
             "name": "The Fall",
             "abstract": "The Fall are an English post-punk band, formed in Prestwich,\nGreater Manchester in 1976. The group has existed in some\nform ever since, and is essentially built around its founder\nand only constant member, Mark E. Smith. First associated\nwith the punk movement of the late 1970s, the band's music\nhas gone through numerous stylistic changes, often\nconcurrently with changes in the group's membership.\nHowever, The Fall's music is often characterised by\nrepetition, an abrasive guitar-driven...",
             "birthyear": "1976",
+            "activeyear": "1978",
             "am": "the-fall-p4228",
             "name_short": "FALL",
             "ints": {
@@ -6333,6 +6490,7 @@ var music = {
             "name": "Count Basie",
             "abstract": "William \"Count\" Basie (August 21, 1904 \u2013 April 26, 1984)\nwas an American jazz pianist, organist, bandleader, and\ncomposer. Basie led his jazz orchestra almost continuously\nfor nearly 50 years. Many notable musicians came to\nprominence under his direction, including tenor saxophonists\nLester Young and Herschel Evans, trumpeters Buck Clayton and\nHarry \"Sweets\" Edison and singers Jimmy Rushing and Joe\nWilliams. Basie's theme songs were \"One O'Clock Jump\" and\n\"April In Paris\".\nWilliam James...",
             "birthyear": "1904",
+            "activeyear": "1938",
             "am": "count-basie-p6072",
             "name_short": "BASIE",
             "ints": {
@@ -6358,6 +6516,7 @@ var music = {
             "name": "Cocteau Twins",
             "abstract": "Cocteau Twins were a Scottish alternative rock band active\nfrom 1979 to 1997, known for complex instrumentation and\natmospheric, non-lyrical vocals. The original members were\nElizabeth Fraser (vocals), Robin Guthrie (guitar, drum\nmachine) and Will Heggie (bass guitar), who was replaced by\nSimon Raymonde (also bass guitar) early in the band's\ncareer.\nThough formed in the post-punk and New Wave era, the\nCocteau Twins tended to defy concise categorisation, and\ntheir music was a key influence on...",
             "birthyear": "1981",
+            "activeyear": "1982",
             "am": "cocteau-twins-p3932",
             "name_short": "COCTEAU TWINS",
             "ints": {
@@ -6390,6 +6549,7 @@ var music = {
             "name": "The Jesus and Mary Chain",
             "abstract": "The Jesus and Mary Chain are a Scottish alternative rock\nband formed in East Kilbride, Glasgow in 1983. The band\nrevolves around the songwriting partnership of brothers Jim\nand William Reid. They released a string of albums, singles\nand EPs between their 1983 formation and their 1999 breakup,\nand gained notoriety in their early days for short sets and\nviolence that became common at their live shows. In 2007,\nthe band reunited.\nBrothers Jim and William Reid had been inspired to form a\nband as...",
             "birthyear": "1984",
+            "activeyear": "1984",
             "am": "the-jesus-and-mary-chain-p4609",
             "name_short": "JESUS & MARY CHAIN",
             "ints": {
@@ -6426,6 +6586,7 @@ var music = {
             "name": "Beastie Boys",
             "abstract": "Beastie Boys are an American hip hop trio from Brooklyn, New\nYork. The group consists of Mike D (Michael Diamond), MCA\n(Adam Yauch), and Ad-Rock (Adam Horovitz).\nThe Beastie Boys began as a hardcore punk band in 1979,\nfirst appearing on the compilation cassette New York Thrash\nbefore releasing their first EP, Polly Wog Stew, in 1982.\nAfter achieving moderate local success with the 1983 release\nof their experimental hip-hop 12\" Cooky Puss, they made the\ntransition to hip-hop in 1984 and a...",
             "birthyear": "1979",
+            "activeyear": "1982",
             "am": "beastie-boys-p10",
             "name_short": "BEASTIE BOYS",
             "ints": {
@@ -6468,6 +6629,7 @@ var music = {
             "name": "Bruce Springsteen",
             "abstract": "Bruce Frederick Joseph Springsteen (born September 23,\n1949), nicknamed \"The Boss\", is an American\nsinger-songwriter who records and tours with the E Street\nBand. Springsteen is widely known for his brand of Heartland\nrock, poetic lyrics, and Americana sentiments centered on\nhis native New Jersey.\nSpringsteen's recordings have included both commercially\naccessible rock albums and more sombre folk-oriented works.\nHis most successful studio albums, Born to Run and Born in\nthe U.S.A., showcase...",
             "birthyear": "1949",
+            "activeyear": "1973",
             "am": "bruce-springsteen-p5505",
             "name_short": "SPRINGSTEEN",
             "ints": {
@@ -6509,6 +6671,7 @@ var music = {
             "name": "The Smiths",
             "abstract": "The Smiths were an English alternative rock band, formed in\nManchester in 1982. Based on the songwriting partnership of\nMorrissey (vocals) and Johnny Marr (guitar), the band also\nincluded Andy Rourke (bass) and Mike Joyce (drums). Critics\nhave called them the most important alternative rock band to\nemerge from the British independent music scene of the\n1980s. The group were signed to the independent record label\nRough Trade Records, for whom they released four studio\nalbums and several...",
             "birthyear": "1982",
+            "activeyear": "1983",
             "am": "the-smiths-p5466",
             "name_short": "SMITHS",
             "ints": {
@@ -6545,6 +6708,7 @@ var music = {
             "name": "Echo &amp; the Bunnymen",
             "abstract": "Echo & the Bunnymen are an English post-punk group, formed\nin Liverpool in 1978. Their original lineup consisted of\nvocalist Ian McCulloch, guitarist Will Sergeant and bass\nplayer Les Pattinson, supplemented by a drum machine. By\n1980, Pete de Freitas had joined as the band's drummer, and\ntheir debut album, Crocodiles, met with critical acclaim and\nmade the UK Top 20. Their second album, Heaven Up Here\n(1981), again found favour with the critics and reached\nnumber 10 in the UK Album chart....",
             "birthyear": "1978",
+            "activeyear": "1979",
             "am": "echo-the-bunnymen-p4162",
             "name_short": "ECHO & BUNNYMEN",
             "ints": {
@@ -6578,6 +6742,7 @@ var music = {
             "name": "Fugazi",
             "abstract": "Fugazi is an American post-hardcore band that formed in\nWashington, D.C. in 1987. The band's continual members are\nguitarists and vocalists Ian MacKaye and Guy Picciotto,\nbassist Joe Lally and drummer Brendan Canty. Fugazi are\nnoted for their DIY ethical stance, manner of business\npractice and contempt towards the music industry, as well as\ntheir genre defying music. Fugazi has performed numerous\nworldwide tours and produced seven albums and a film,\ngaining the band critical acclaim and...",
             "birthyear": "1987",
+            "activeyear": "1988",
             "am": "fugazi-p4319",
             "name_short": "FUGAZI",
             "ints": {
@@ -6617,6 +6782,7 @@ var music = {
             "name": "EPMD",
             "abstract": "EPMD is an American hip hop group from Brentwood, New York.\nThe group's name is a concatenation of the members' name \"E\"\nand \"PMD\" or an acronym for \"Erick and Parrish Making\nDollars\" (later \"Erick and Parrish Millennium Ducats\"),\nreferencing its members, emcees Erick Sermon (\"E\") and\nParrish Smith (\"PMD\"). The group has been active for more\nthan 20 years (1986\u2013present), and is one of the most\nprominent acts in East coast hip hop. Diamond J, DJ K La\nBoss, and DJ Scratch were DJs for the...",
             "birthyear": "1990",
+            "activeyear": "1987",
             "am": "epmd-p36",
             "name_short": "EPMD",
             "ints": {
@@ -6647,6 +6813,7 @@ var music = {
             "name": "Green Day",
             "abstract": "Green Day is an American punk rock band formed in 1987. The\nband consists of lead vocalist and guitarist Billie Joe\nArmstrong, bassist and backing vocalist Mike Dirnt, and\ndrummer Tr\u00e9 Cool. Cool replaced former drummer John\nKiffmeyer in 1990, prior to the recording of the band's\nsecond studio album, Kerplunk, and has been a member of the\nband since.\nGreen Day was originally part of the punk scene at 924\nGilman Street in Berkeley, California. The band's early\nreleases for the independent...",
             "birthyear": "1989",
+            "activeyear": "1989",
             "am": "green-day-p69310",
             "name_short": "GREEN DAY",
             "ints": {
@@ -6680,6 +6847,7 @@ var music = {
             "name": "R.E.M.",
             "abstract": "R.E.M. is an American rock band formed in Athens, Georgia,\nin 1980 by singer Michael Stipe, guitarist Peter Buck,\nbassist Mike Mills and drummer Bill Berry. R.E.M. was one of\nthe first popular alternative rock bands, and gained early\nattention due to Buck's ringing, arpeggiated guitar style\nand Stipe's unclear vocals. R.E.M. released its first\nsingle, \"Radio Free Europe\", in 1981 on the independent\nrecord label Hib-Tone. The single was followed by the\nChronic Town EP in 1982, the band's...",
             "birthyear": "1980",
+            "activeyear": "1981",
             "am": "rem-p116437",
             "name_short": "R.E.M.",
             "ints": {
@@ -6716,6 +6884,7 @@ var music = {
             "name": "N.W.A",
             "abstract": "N.W.A (short for Niggaz Wit Attitudes or Niggaz With\nAttitude) was an American hip hop group from South Central\nLos Angeles, California, widely considered one of the\nseminal acts of the gangsta rap sub-genre.\nThe original lineup consisted of Arabian Prince, DJ Yella,\nDr. Dre, Eazy-E, Ice Cube, and MC Ren. Arabian Prince\nembarked on a solo career in 1989 and Ice Cube left in 1990\nover royalty disputes.\nActive from 1986 to 1991, the group endured controversy due\nto the explicit nature of their...",
             "birthyear": "1986",
+            "activeyear": "1987",
             "am": "nwa-p77",
             "name_short": "N.W.A",
             "ints": {
@@ -6747,6 +6916,7 @@ var music = {
             "name": "Paul Simon",
             "abstract": "Paul Frederic Simon (born October 13, 1941) is an American\nsinger-songwriter.\nSimon is best known for his success, beginning in 1965, as\npart of the duo Simon & Garfunkel, with musical partner Art\nGarfunkel. Simon wrote most of the pair's songs, including\nthree that reached number one on the US singles charts, \"The\nSound of Silence\", \"Mrs. Robinson\", and \"Bridge Over\nTroubled Water\". In 1970, at the height of their popularity,\nthe duo split, and Simon began a successful solo career,...",
             "birthyear": "1941",
+            "activeyear": "1965",
             "am": "paul-simon-p5433",
             "name_short": "SIMON",
             "ints": {
@@ -6776,6 +6946,7 @@ var music = {
             "name": "Tangerine Dream",
             "abstract": "Tangerine Dream is a German electronic music group founded\nin 1967 by Edgar Froese. The band has undergone many\npersonnel changes over the years, with Froese being the only\ncontinuous member. Drummer and composer Klaus Schulze was\nbriefly a member of an early lineup, but the most stable\nversion of the group, during their influential mid-1970s\nperiod, was as a keyboard trio with Froese, Christopher\nFranke, and Peter Baumann. Early in the 1980s, Johannes\nSchmoelling replaced Baumann, and this...",
             "birthyear": "1967",
+            "activeyear": "1971",
             "am": "tangerine-dream-p2807",
             "name_short": "DREAM",
             "ints": {
@@ -6806,6 +6977,7 @@ var music = {
             "name": "Soundgarden",
             "abstract": "Soundgarden is an American rock band formed in Seattle,\nWashington in 1984 by lead singer Chris Cornell, lead\nguitarist Kim Thayil, and bassist Hiro Yamamoto. Matt\nCameron became the band's permanent drummer in 1986 while\nbassist Ben Shepherd became a permanent replacement for\nYamamoto in 1990.\nSoundgarden was one of the seminal bands in the creation of\ngrunge, a style of alternative rock that developed in\nSeattle, and was one of a number of grunge bands signed to\nthe record label Sub Pop....",
             "birthyear": "1984",
+            "activeyear": "1987",
             "am": "soundgarden-p5483",
             "name_short": "SOUNDGARDEN",
             "ints": {
@@ -6848,6 +7020,7 @@ var music = {
             "name": "Diana Ross",
             "abstract": "Diana Ernestine Earle Ross (born March 26, 1944) is an\nAmerican singer and actress. Ross served as lead singer of\nthe Motown group The Supremes during the 1960s. After\nleaving the group in 1970, Ross began a solo career that\nincluded successful ventures into film and Broadway. She\nreceived a Best Actress Academy Award nomination for her\n1972 role as Billie Holiday in Lady Sings the Blues, for\nwhich she won a Golden Globe award. She won 8 awards\nAmerican Music Awards, garnered twelve Grammy...",
             "birthyear": "1944",
+            "activeyear": "1967",
             "am": "diana-ross-p5308",
             "name_short": "ROSS",
             "ints": {
@@ -6881,6 +7054,7 @@ var music = {
             "name": "Janet Jackson",
             "abstract": "Janet Damita Jo Jackson (born May 16, 1966) is an American\nrecording artist and actress. Known for a series of\nsonically innovative, socially conscious and sexually\nprovocative records, as well as elaborate stage shows,\ntelevision and film roles, she has been a prominent figure\nin popular culture for over 25 years. She is ranked by\nForbes magazine as one of the richest women in\nentertainment. The youngest child of the Jackson family, she\nbegan her career with the variety television series...",
             "birthyear": "1966",
+            "activeyear": "1982",
             "am": "janet-jackson-p4572",
             "name_short": "JACKSON",
             "ints": {
@@ -6915,6 +7089,7 @@ var music = {
             "name": "Kate Bush",
             "abstract": "Kate Bush (born Catherine Bush 30 July 1958) is an English\nsinger-songwriter, musician and record producer. Her\neclectic musical style and idiosyncratic vocal style have\nmade her one of the United Kingdom's most successful solo\nfemale performers of the past 30\u00a0years. Bush was signed by\nEMI at the age of 16 after being recommended by Pink Floyd's\nDavid Gilmour. In 1978, at age 19, she topped the UK Singles\nChart for four weeks with her debut single \"Wuthering\nHeights\", becoming the first...",
             "birthyear": "1978",
+            "activeyear": "1978",
             "am": "kate-bush-p3805",
             "name_short": "BUSH",
             "ints": {
@@ -6948,6 +7123,7 @@ var music = {
             "name": "A Tribe Called Quest",
             "abstract": "A Tribe Called Quest is an American hip hop group, formed in\n1985. It was composed of rapper\/producer Q-Tip (Kamaal Ibn\nJohn Fareed, formerly Jonathan Davis), rapper Phife Dawg\n(Malik Taylor), and DJ\/producer Ali Shaheed Muhammad. A\nfourth member, rapper Jarobi White, left the group after\ntheir first album but appears to have rejoined the group\nsince 2006. Along with De La Soul, the group was a central\npart of the Native Tongues Posse, and enjoyed the most\ncommercial success out of all the...",
             "birthyear": "1988",
+            "activeyear": "1989",
             "am": "a-tribe-called-quest-p50081",
             "name_short": "QUEST",
             "ints": {
@@ -6977,6 +7153,7 @@ var music = {
             "name": "Jane's Addiction",
             "abstract": "Jane's Addiction is an American alternative rock band formed\nin Los Angeles, California in 1985. The band's original\nline-up featured Perry Farrell (vocals), Dave Navarro\n(guitar), Eric Avery (bass) and Stephen Perkins (drums).\nAfter breaking up in 1991, Jane's Addiction briefly reunited\nin 1997 and again in 2001; both times with Avery declining\nto participate. In 2008, the band's \"classic\" line-up,\nfeaturing Avery, reunited and embarked on a world tour.\nAvery subsequently left the band in...",
             "birthyear": "1986",
+            "activeyear": "1988",
             "am": "janes-addiction-p4595",
             "name_short": "ADDICTION",
             "ints": {
@@ -7018,6 +7195,7 @@ var music = {
             "name": "Tom Waits",
             "abstract": "Thomas Alan \"Tom\" Waits (born December 7, 1949) is an\nAmerican singer-songwriter, composer, and actor. Waits has a\ndistinctive voice, described by critic Daniel Durchholz as\nsounding \"like it was soaked in a vat of bourbon, left\nhanging in the smokehouse for a few months, and then taken\noutside and run over with a car.\" With this trademark growl,\nhis incorporation of pre-rock music styles such as blues,\njazz, and vaudeville, and experimental tendencies verging on\nindustrial music, Waits has...",
             "birthyear": "1971",
+            "activeyear": "1972",
             "am": "tom-waits-p5778",
             "name_short": "WAITS",
             "ints": {
@@ -7049,6 +7227,7 @@ var music = {
             "name": "Waylon Jennings",
             "abstract": "Waylon Arnold Jennings (June 15, 1937 - February 13, 2002)\nwas an American country music singer, songwriter, and\nmusician. He rose to prominence as a bassist for Buddy Holly\nfollowing the break-up of The Crickets. Jennings escaped\ndeath in the February 3, 1959, plane crash that took the\nlives of Buddy Holly, Ritchie Valens, and J.P. \"The Big\nBopper\" Richardson, when he gave up his seat to Richardson\nwho had been sick with the flu. Urban legend and Hollywood\nfolklore have it that Jennings and...",
             "birthyear": "1937",
+            "activeyear": "1959",
             "am": "waylon-jennings-p1663",
             "name_short": "JENNINGS",
             "ints": {
@@ -7077,6 +7256,7 @@ var music = {
             "name": "Weezer",
             "abstract": "Weezer is an American alternative rock band. The band\ncurrently consists of Rivers Cuomo (lead vocals, guitar),\nPatrick Wilson (drums, guitar, backing vocals), Brian Bell\n(guitar, backing vocals, keyboards), and Scott Shriner\n(bass, backing vocals, keyboards). The band has changed\nlineups three times since its formation in 1992. They have\nreleased nine full-length albums, six EPs, and a DVD. Weezer\nhas sold over nine million records in the United States to\ndate.\nThe band is best known for...",
             "birthyear": "1992",
+            "activeyear": "1994",
             "am": "weezer-p44726",
             "name_short": "WEEZER",
             "ints": {
@@ -7113,6 +7293,7 @@ var music = {
             "name": "Alice in Chains",
             "abstract": "Alice in Chains is an American rock band formed in Seattle,\nWashington, in 1987 by Jerry Cantrell and original lead\nvocalist Layne Staley. Although widely associated with\ngrunge music, the band's sound incorporates heavy metal and\nacoustic elements. Since its formation, Alice in Chains has\nreleased four studio albums, three EPs, two live albums,\nfour compilations, and two DVDs. The band is known for its\ndistinct vocal style which often included the harmonized\nvocals of Staley and...",
             "birthyear": "1987",
+            "activeyear": "1990",
             "am": "alice-in-chains-p3520",
             "name_short": "CHAINS",
             "ints": {
@@ -7152,6 +7333,7 @@ var music = {
             "name": "New Order",
             "abstract": "New Order were an English musical group formed in 1980 by\nBernard Sumner (vocals, guitars, synthesizers), Peter Hook\n(bass, backing vocals, electronic drums) and Stephen Morris\n(drums, electronic drums, synthesizers). New Order was\nformed by the remaining members of Joy Division following\nthe suicide of vocalist Ian Curtis. They were soon joined by\nkeyboard player Gillian Gilbert.\nNew Order combined new wave and electronic dance, and\nbecame one of the most critically acclaimed and highly...",
             "birthyear": "1980",
+            "activeyear": "1981",
             "am": "new-order-p5017",
             "name_short": "ORDER",
             "ints": {
@@ -7194,6 +7376,7 @@ var music = {
             "name": "Descendents",
             "abstract": "The Descendents are an American punk rock band from Hermosa\nBeach, California. As of 2010, they have released six studio\nalbums, three live albums, three compilation albums and\nthree EPs. The Descendents broke up and reformed several\ntimes over the years, sometimes with different musicians.\nThe band's current lineup is singer Milo Aukerman, guitarist\nStephen Egerton, bassist Karl Alvarez and drummer Bill\nStevenson.\nThe Descendents were formed in 1978 by guitarist Frank\nNavetta, bassist Tony...",
             "birthyear": "1978",
+            "activeyear": "1980",
             "am": "descendents-p4075",
             "name_short": "DESCENDENTS",
             "ints": {
@@ -7223,6 +7406,7 @@ var music = {
             "name": "Depeche Mode",
             "abstract": "Depeche Mode (pronounced\u00a0\/d\u025b\u02c8p\u025b\u0283\/, de-PESH) are an\nEnglish electronic music band which formed in 1980, in\nBasildon, Essex. The group's original line-up consisted of\nDave Gahan (lead vocals), Martin Gore (keyboards, guitar,\nvocals, chief songwriter after 1981), Andy Fletcher\n(keyboards) and Vince Clarke (keyboards, chief songwriter\n1980\u201381). Vince Clarke left the band after the release of\ntheir 1981 debut album, Speak & Spell, and was replaced by\nAlan Wilder (keyboards, drums) with Gore...",
             "birthyear": "1980",
+            "activeyear": "1981",
             "am": "depeche-mode-p4071",
             "name_short": "DEPECHE MODE",
             "ints": {
@@ -7263,6 +7447,7 @@ var music = {
             "name": "Pearl Jam",
             "abstract": "Pearl Jam is an American rock band that formed in Seattle,\nWashington, in 1990. Since its inception, the band's line-up\nhas included Eddie Vedder (lead vocals, guitar), Jeff Ament\n(bass guitar), Stone Gossard (rhythm guitar), and Mike\nMcCready (lead guitar). The band's current drummer is Matt\nCameron, also of Soundgarden, who has been with the band\nsince 1998.\nFormed after the demise of Ament and Gossard's previous\nband, Mother Love Bone, Pearl Jam broke into the mainstream\nwith its debut...",
             "birthyear": "1990",
+            "activeyear": "1991",
             "am": "pearl-jam-p5118",
             "name_short": "JAM",
             "ints": {
@@ -7299,6 +7484,7 @@ var music = {
             "name": "James Taylor",
             "abstract": "James Vernon Taylor (born March 12, 1948) is an American\nsinger-songwriter and guitarist born in Lenox,\nMassachusetts, and raised in Carrboro, North Carolina. He\nowns a house in the Berkshire County town of Washington,\nMassachusetts. A five-time Grammy Award winner, Taylor was\ninducted into the Rock & Roll Hall of Fame in 2000.\nTaylor achieved his major breakthrough in 1970 with the #3\nsingle \"Fire and Rain\" and had his first #1 hit the\nfollowing year with \"You've Got a Friend\", a recording...",
             "birthyear": "1948",
+            "activeyear": "1969",
             "am": "james-taylor-p5603",
             "name_short": "TAYLOR",
             "ints": {
@@ -7333,6 +7519,7 @@ var music = {
             "name": "Curtis Mayfield",
             "abstract": "Curtis Lee Mayfield (June 3, 1942 \u2013 December 26, 1999) was\nan American soul, R&B, and funk singer, songwriter, and\nrecord producer best known for his anthemic music with The\nImpressions and for composing the soundtrack to the\nblaxploitation film Super Fly. For these works and others,\nhe is highly regarded as a pioneer of funk and of\npolitically conscious African-American music. He was also a\nmulti-instrumentalist who played the guitar, bass, piano,\nsaxophone, and drums. Curtis Mayfield is a...",
             "birthyear": "1942",
+            "activeyear": "1970",
             "am": "curtis-mayfield-p4861",
             "name_short": "MAYFIELD",
             "ints": {
@@ -7363,6 +7550,7 @@ var music = {
             "name": "The Replacements",
             "abstract": "The Replacements (sometimes referred to colloquially as the\nMats) were an American punk rock band formed in Minneapolis,\nMinnesota in 1979, and are considered pioneers of\nalternative rock. The band was composed of guitarist and\nvocalist Paul Westerberg, guitarist Bob Stinson, bassist\nTommy Stinson, and drummer Chris Mars for most of their\ncareer. Following several critically acclaimed albums,\nincluding Let It Be and Tim, Bob Stinson was fired in 1986\nand the band experienced several line-up...",
             "birthyear": "1979",
+            "activeyear": "1981",
             "am": "the-replacements-p5255",
             "name_short": "REPLACEMENTS",
             "ints": {
@@ -7403,6 +7591,7 @@ var music = {
             "name": "Dr. Dre",
             "abstract": "Andre Romelle Young (born February 18, 1965), primarily\nknown by his stage name Dr. Dre, is an American record\nproducer, rapper, record executive, and actor. He is the\nfounder and current CEO of Aftermath Entertainment and a\nformer co-owner and artist of Death Row Records, also having\nproduced albums for and overseeing the careers of many\nrappers signed to those record labels, such as Snoop Dogg,\nEminem and 50 Cent. As a producer he is credited as a key\nfigure in the popularization of West...",
             "birthyear": "1965",
+            "activeyear": "1991",
             "am": "dr-dre-p26119",
             "name_short": "DRE",
             "ints": {
@@ -7430,6 +7619,7 @@ var music = {
             "name": "The Police",
             "abstract": "The Police were an English rock band from London, formed in\n1977. The band consisted of Sting (lead vocals, bass\nguitar), Andy Summers (guitar, vocals) and Stewart Copeland\n(drums, vocals, percussion). The Police became globally\npopular in the late 1970s and are generally regarded as one\nof the first New Wave groups to achieve mainstream success,\nplaying a style of rock that was influenced by jazz, punk\nand reggae music. Their 1983 album, Synchronicity, was\nnumber one in the UK and the US...",
             "birthyear": "1977",
+            "activeyear": "1977",
             "am": "the-police-p5163",
             "name_short": "POLICE",
             "ints": {
@@ -7468,6 +7658,7 @@ var music = {
             "name": "Emmylou Harris",
             "abstract": "Emmylou Harris (born April 2, 1947 in Birmingham, Alabama)\nis an American singer-songwriter and musician. In addition\nto her work as a solo artist and bandleader, both as an\ninterpreter of other composers' works and as a\nsinger-songwriter, she is a sought-after backing vocalist\nand duet partner, working with numerous other artists\nincluding Gram Parsons, Bob Dylan, Warren Zevon, Linda\nRonstadt, John Denver, The Band, Elvis Costello, Conor\nOberst, and Dolly Parton.\nEmmylou Harris is the...",
             "birthyear": "1947",
+            "activeyear": "1970",
             "am": "emmylou-harris-p1642",
             "name_short": "HARRIS",
             "ints": {
@@ -7503,6 +7694,7 @@ var music = {
             "name": "Cabaret Voltaire",
             "abstract": "Cabaret Voltaire were a British music group from Sheffield,\nEngland.\nInitially composed of Stephen Mallinder, Richard H. Kirk\nand Chris Watson, the group was named after the Cabaret\nVoltaire, a nightclub in Zurich, Switzerland that was a\ncentre for the early Dada movement.\nTheir earliest performances were dada-influenced\nperformance art, but Cabaret Voltaire later developed into\none of the most prolific and important groups to blend pop\nwith dance music, techno, dub, house and experimental...",
             "birthyear": "1973",
+            "activeyear": "1978",
             "am": "cabaret-voltaire-p3815",
             "name_short": "VOLTAIRE",
             "ints": {
@@ -7544,6 +7736,7 @@ var music = {
             "name": "Blondie",
             "abstract": "Blondie is an American rock band, founded by singer Debbie\nHarry and guitarist Chris Stein. The band was a pioneer in\nthe early American New Wave and punk scenes of the\nmid-1970s. Their first two albums contained strong elements\nof these genres, and although successful in the United\nKingdom and Australia, Blondie was regarded as an\nunderground band in the United States until the release of\nParallel Lines in 1978. Over the next three years, the band\nachieved several hit singles and became...",
             "birthyear": "1974",
+            "activeyear": "1976",
             "am": "blondie-p3703",
             "name_short": "BLONDIE",
             "ints": {
@@ -7581,6 +7774,7 @@ var music = {
             "name": "Sunny Day Real Estate",
             "abstract": "Sunny Day Real Estate is an American band from Seattle,\nWashington. In the 1990s, the group expanded off of the\ngrunge style that was popular in the local scene to make a\nmore melodic sound. While not the first band to be\nclassified as emo, they were instrumental in establishing\nthe genre. In 1994, the band released their debut album\nDiary on Sub Pop Records to critical acclaim. However,\nshortly after releasing their second album LP2, the band\nbroke up with members Nate Mendel and William...",
             "birthyear": "1992",
+            "activeyear": "1992",
             "am": "sunny-day-real-estate-p44823",
             "name_short": "ESTATE",
             "ints": {
@@ -7614,6 +7808,7 @@ var music = {
             "name": "Geto Boys",
             "abstract": "Geto Boys (originally spelled Ghetto Boys) is a rap group\nfrom Houston, Texas, consisting of Scarface, Willie D and\nBushwick Bill.\nThe Geto Boys earned notoriety for its lyrics which\nincluded misogyny, gore, psychotic experiences, and\nnecrophilia. Despite the explicit content of their songs,\ncritic Alex Henderson argues that the group \"comes across as\nmuch more heartfelt than the numerous gangsta rap...wannabes\nwho jumped on the gangsta bandwagon in the early \u201990s.\"\nThe Geto Boys broke new...",
             "birthyear": "1988",
+            "activeyear": "1987",
             "am": "geto-boys-p44",
             "name_short": "GETo BOYS",
             "ints": {
@@ -7641,6 +7836,7 @@ var music = {
             "name": "My Bloody Valentine",
             "abstract": "My Bloody Valentine are an alternative rock band formed in\nDublin, Ireland in 1983. The band's founding members are\nguitarist\/singer Kevin Shields and drummer Colm \u00d3\nC\u00edos\u00f3ig. The lineup during the band's late 80s\/early 90s\nheyday included singer-guitarist Bilinda Butcher and bassist\nDebbie Googe after the band settled in London.\nAs My Bloody Valentine's music progressed, their use of\ndistortion, pitch bending, and digital reverb resulted in a\nsound that came to be known as shoegazing. The...",
             "birthyear": "1984",
+            "activeyear": "1985",
             "am": "my-bloody-valentine-p4984",
             "name_short": "VALENTINE",
             "ints": {
@@ -7677,6 +7873,7 @@ var music = {
             "name": "Dolly Parton",
             "abstract": "Dolly Rebecca Parton (born January 19, 1946) is an American\nsinger-songwriter, author, multi-instrumentalist, actress\nand philanthropist, best-known for her work in country\nmusic.\nIn the four-and-a-half decades since her national-chart\nd\u00e9but, she remains one of the most-successful female\nartists in the history of the country genre which garnered\nher the title of 'The Queen of Country Music', with\ntwenty-five number-one singles, and a record forty-one\ntop-10 country albums. She has the...",
             "birthyear": "1946",
+            "activeyear": "1959",
             "am": "dolly-parton-p1759",
             "name_short": "PARTON",
             "ints": {
@@ -7706,6 +7903,7 @@ var music = {
             "name": "De La Soul",
             "abstract": "De La Soul is an American hip hop trio formed in 1987 on\nLong Island, New York. The band is best known for their\neclectic sampling, quirky lyrics, and their contributions to\nthe evolution of the jazz rap and alternative hip hop\nsubgenres. The members are Kelvin Mercer (Posdnuos,\nMercenary, Plug Wonder Why, Plug One), David Jude Jolicoeur\n(Trugoy the Dove, Dave, Plug Two) and Vincent Mason (P.A.\nPasemaster Mase, Maseo, Plug Three). The three formed the\ngroup in high school and caught the...",
             "birthyear": "1988",
+            "activeyear": "1988",
             "am": "de-la-soul-p69369",
             "name_short": "SOUL",
             "ints": {
@@ -7735,6 +7933,7 @@ var music = {
             "name": "Bee Gees",
             "abstract": "The Bee Gees are a musical group that was originally made up\nof three brothers: Barry, Robin, and Maurice Gibb. The trio\nwere successful for most of their forty plus years of\nrecording music, but they had two distinct periods of\nexceptional success: as a harmonic \"soft rock\" act in the\nlate 1960s and early 1970s, and as a foremost act of the\ndisco music era in the late 1970s. The group sang three-part\ntight harmonies that were instantly recognisable; Robin's\nclear vibrato lead was a hallmark...",
             "birthyear": "1958",
+            "activeyear": "1963",
             "am": "bee-gees-p3652",
             "name_short": "BEE GEES",
             "ints": {
@@ -7771,6 +7970,7 @@ var music = {
             "name": "Ice Cube",
             "abstract": "O'Shea\nJackson (born June 15, 1969) better known by his stage\nname, Ice Cube,\nis an American rapper, actor and film director. Regarded as\none of the\ngreatest hip hop artists, he began his career as a founding\nmember of\nthe famously controversial rap group N.W.A., and later\nlaunched a\nsuccessful solo career in music and cinema. In 1992, he\nmarried Kim\nJackson, with whom he has four children . Later, in 1992,\nhe converted\nto Islam. From the mid-1990s onwards, Cube focused on\nacting, and...",
             "birthyear": "1969",
+            "activeyear": "1990",
             "am": "ice-cube-p48",
             "name_short": "CUBE",
             "ints": {
