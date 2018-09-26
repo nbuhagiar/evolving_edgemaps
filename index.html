@@ -54,7 +54,23 @@
 	h1:hover a {
 		text-decoration: underline;
 	}
-	
+
+	#sliderMaxText {
+		width: 100px;
+	}
+
+	#sliderMax {
+		width: 200px;
+	}
+
+	#sliderMin {
+		width: 200px;
+	}
+
+	#sliderMinText {
+		width: 100px;
+	}
+
 </style>
 
 </head>
@@ -62,22 +78,30 @@
 
 <h1><a href="http://mariandoerk.de/edgemaps">EdgeMaps</a></h1>
 
-<select id="data" tabindex="3">
-	<option selected value="phils">Philosophers</option>
+<select id="data" tabindex="4">
+	<option value="phils">Philosophers</option>
 	<option value="paint">Painters</option>
-	<option value="music">Musicians</option>
+	<option selected value="music">Musicians</option>
 </select>
 
-<select id="view" tabindex="2">
-	<option selected value="map">Similarity Map</option>
+<select id="view" tabindex="3">
+	<option value="map">Similarity Map</option>
+	<option selected value="evolution">Evolving Influence Map</option>
 	<option value="time">Timeline</option>
 </select>
 
-<input type="search" tabindex="1" value="" placeholder="Search" id="search">
+<button id="timer_button" tabindex="1" onclick="stopTime()">
+	<option>Halt</option>
+</button>
 
+<input type="search" tabindex="2" value="" placeholder="Search" id="search">
+
+<input type="text" id="sliderMaxText" value="Max. Year: 1994">
+<input id="sliderMax" type="range" value="1994" min="1923" max="1994" onchange="updateMax(this.value)">
+<input id="sliderMin" type="range" value="1923" min="1923" max="1994" onchange="updateMin(this.value)">
+<input type="text" id="sliderMinText" value="Min. Year: 1923">
 
 <script type="text/javascript">
-
 
 /*  CONFIG  */
 var winx = $(window).width(), winy = $(window).height()-30; /*  window  */
@@ -90,6 +114,8 @@ var oneatatime = true;
 var speed = 300;
 var R = null;
 var noimages = true;
+var running = false;
+var running_timer = [];
 
 /*  GLOBAL STATE  */
 var det = {}; /*  detail object  */
@@ -139,7 +165,6 @@ $(window).resize(
 	}
 );
 
-
 function init ()
 {
 	years = {};
@@ -163,7 +188,7 @@ function init ()
 	
 	$(document).keyup(function(e){ if (e.keyCode == 27) reset(); });
 
-	if ($("#view").val()=='map') map_view = true;
+	if ($("#view").val()=='map' || $("#view").val()=='evolution') map_view = true;
 	
 	$('#data').blur();
 	
@@ -177,7 +202,22 @@ function init ()
 	positions = {};
 	yr_max = Number(data.yr_max);
 	yr_min = Number(data.yr_min);	
-	
+
+	// add soundbyte
+	sound = new Audio("beep.wav");
+
+	// arrange entities by birthyear
+	bandList = [];
+	yearList = [];
+	for (var band in ph)
+	{
+		bandList.push(ph[band].id);
+		yearList.push(ph[band].activeyear);
+	}
+	minimum = Math.min.apply(Math, yearList);
+	maximum = Math.max.apply(Math, yearList);
+	quickSort(bandList, yearList, 0, yearList.length - 1);
+
 	generateInterestLayout();
 	generateTimeLayout();
 	
@@ -201,6 +241,62 @@ function init ()
 	document.title = title();	
 }
 
+/* QUICKSORT */
+
+function swap(names, elements, index1, index2)
+{
+	var temporary_names = names[index1];
+	names[index1] = names[index2];
+	names[index2] = temporary_names;
+	var temporary_elements = elements[index1];
+	elements[index1] = elements[index2];
+	elements[index2] = temporary_elements;
+}
+
+function partition(names, elements, low_end, high_end)
+{
+	var pivot = elements[Math.floor((low_end + high_end) / 2)];
+	var i = low_end;
+	var j = high_end;
+
+	while (i <= j)
+	{
+		while (elements[i] < pivot)
+		{
+			i++;
+		}
+		while (elements[j] > pivot)
+		{
+			j--;
+		}
+		if (i <= j)
+		{
+			swap(names, elements, i, j);
+			i++;
+			j--
+		}
+	}
+	return i;
+}
+
+function quickSort(names, elements, low_end, high_end)
+{
+	var index;
+	if (elements.length > 1)
+	{
+		index = partition(names, elements, low_end, high_end);
+
+		if (low_end < index - 1)
+		{
+			quickSort(names, elements, low_end, index - 1);
+		}
+		if (index < high_end)
+		{
+			quickSort(names, elements, index, high_end);
+		}
+	}
+	return elements;
+}
 
 /*  OPTIONS   */
 
@@ -242,6 +338,7 @@ function title()
 	switch ($("#view").val()) {
 		case "time": title+="Timeline "; break;
 		case "map": title+="Similarity Map "; break;
+		case "evolution": title+="Evolving Influence Map "; break;
 	}
 
 	if ($("#search").val()!="") title+=" - Search: " + $("#search").val();
@@ -346,9 +443,7 @@ function search(noupdate)
 	updateHash();	
 }
 
-
 /*  LAYOUT  */
-
 
 /*  positions, colours  */
 function generateInterestLayout()
@@ -643,6 +738,45 @@ function drawTimeLayout()
 	for (y in ticks) ticks[y].animate({opacity: .5}, speed*2);
 }
 
+function updateMax(maximum_value)
+{
+	document.getElementById("sliderMaxText").value = "Max. Year: " + maximum_value.toString();
+	maximum = maximum_value;
+}
+
+function updateMin(minimum_value)
+{
+	document.getElementById("sliderMinText").value = "Min. Year: " + minimum_value.toString();
+	minimum = minimum_value;
+}
+
+function showTime(present_time)
+{
+	var y = Math.round(winy-300-300*pixel);
+
+	timer = R.text(0, y-20-10*pixel, present_time);
+	timer.attr("font-size", 9+25*pixel).attr("fill", "#db0000").attr("font-weight", "bold");
+	var tb = timer.getBBox();
+	timer.attr("x", 10+5*pixel+tb.width/2);
+}
+
+function hideTime()
+{
+	timer.remove();
+}
+
+function stopTime()
+{
+	running_timer.forEach(function(running_time) {
+		clearTimeout(running_time);
+	});
+}
+
+function timeCheck(input_time)
+{
+	if (input_time == maximum && maximum == Math.max.apply(Math, yearList) && minimum == Math.min.apply(Math, yearList)) running = false;
+}
+
 function showLegend()
 {	
 	var y = Math.round(winy-50-50*pixel);
@@ -746,15 +880,13 @@ function reset (noupdate)
 	if (typeof(noupdate)=="undefined") updateHash();
 }
 
-
-
 /*  INTERACTIONS  */
 
 function mouseOver (i)
 {	
 	/*  label  */
 	if (clicked == i) showLabel(i, true);
-	else showLabel(i, false);
+	else if (!running) showLabel(i, false);
 }
 
 function mouseOut (i)
@@ -792,6 +924,8 @@ function click (i, noupdate)
 	}
 	else
 	{
+		running = false;
+		stopTime();
 		hideEdges(i);
 		hideDetail();
 	}
@@ -805,16 +939,62 @@ function click (i, noupdate)
 	}
 	
 	/*  show fr/to phils that are in clicked  */
-	if (clicked!="")
+	if (clicked != "")
 	{
-		/*  show dots of linked phils  */
-		for (to in ph[clicked].to) ph[to].dot.attr({opacity: 1});
+		/*  show dots and labels of linked phils  */
+		if ($("#view").val() == "time" || $("#view").val() == "map")
+		{
+			for (to in ph[clicked].to)
+			{
+				ph[to].dot.attr({opacity: 1});
+				showLabel(to, false);
+			}
+		}
 		for (fr in ph[clicked].fr) ph[fr].dot.attr({opacity: 1});
-
-		/*  show labels of linked phils */
-		for (to in ph[clicked].to) showLabel(to, false); 
 		for (fr in ph[clicked].fr) showLabel(fr, false);
 
+		/* Add influenced dots and labels over time*/
+		if ($("#view").val() == "evolution")
+		{
+			if (maximum < minimum)
+			{
+				window.alert("Ensure that the Maximum Year is greater than the Minimum Year.");
+				reset(true);
+				return;
+			}
+			running = true;
+			for (current_time = minimum; current_time <= maximum; current_time++)
+			{
+				(function timeEvolution(current_time){
+					running_timer.push(setTimeout(function(){
+						if (typeof timer != "undefined") hideTime();
+						showTime(current_time);
+						to_list = [];
+						for (to in ph[clicked].to)
+						{
+							for (band in bandList)
+							{
+								if (bandList[band] == to && yearList[band] == current_time)
+								{
+									to_list.push(bandList[band]);
+								}
+							}
+						}
+						for (artist in to_list)
+						{
+							var term = to_list[artist];
+							ph[term].dot.attr({opacity: 1});
+							showLabel(term, false);
+							showEvolvingEdges(i, term, 1);
+						}
+						sound.volume = 0.1*to_list.length;
+						sound.play();
+						timeCheck(current_time);
+					}, 500 * (current_time - minimum)));
+				}(current_time));
+			}
+		}
+		
 		/*  clicked dots  */
 		ph[clicked].dot.attr({opacity: 1});
 		var s = dotstroke+ph[clicked].pos.r/10; /*  stroke width  */
@@ -832,16 +1012,12 @@ function click (i, noupdate)
 	if (typeof(noupdate)=="undefined") updateHash();
 }
 
-
-
 /*  dim or undim dot  */
 function dimDot (id, dim)
 {
 	if (dim) ph[id].dot.attr("opacity", 0.15).attr("stroke-width", dotstroke).toFront();
 	else ph[id].dot.attr("opacity", 1).attr("stroke-width", dotstroke).toFront();
 }
-
-
 
 /*  EDGES  */
 
@@ -920,21 +1096,26 @@ function frEdge(p, t, d, colour, c, o)
 
 function showEdges (i, o) /*  i: phil id, o: opacity  */
 {
+
 	/*  to_edges */
 	ph[i].to_edges = {};
 	ph[i].to_arrows = {};
 	if (map_view) var p = ph[i].pos; else var p = ph[i].tpos;
 
-	for (to in ph[i].to)
-	{ 
-		if (map_view) var t = ph[to].pos; else var t = ph[to].tpos;
-		var d = distance(p,t);
-		if (map_view) var c = d/4; else var c = d/2; /*  curvature  */
+	/* to_edges */
+	if ($("#view").val() == "time" || $("#view").val() == "map")
+	{
+		for (to in ph[i].to)
+		{ 
+			if (map_view) var t = ph[to].pos; else var t = ph[to].tpos;
+			var d = distance(p,t);
+			if (map_view) var c = d/4; else var c = d/2; /*  curvature  */
 		
-		var both = toEdge(p, t, d, ph[i].hex, c, o);
+			var both = toEdge(p, t, d, ph[i].hex, c, o);
 
-		ph[i].to_edges[to] = both.edge;
-		ph[i].to_arrows[to] = both.arrow;
+			ph[i].to_edges[to] = both.edge;
+			ph[i].to_arrows[to] = both.arrow;
+		}
 	}
 
 	/*  fr_edges */
@@ -948,6 +1129,20 @@ function showEdges (i, o) /*  i: phil id, o: opacity  */
 		ph[i].fr_edges[fr] = frEdge(p, t, d, ph[fr].hex, c, o);
 	}
 
+}
+
+function showEvolvingEdges (i, influenced_artist, o) /*  i: phil id, o: opacity  */
+{
+
+	if (map_view) var p = ph[i].pos; else var p = ph[i].tpos;
+	if (map_view) var t = ph[influenced_artist].pos; else var t = ph[influenced_artist].tpos;
+	var d = distance(p,t);
+	if (map_view) var c = d/4; else var c = d/2; /*  curvature  */
+		
+	var both = toEdge(p, t, d, ph[i].hex, c, o);
+
+	ph[i].to_edges[influenced_artist] = both.edge;
+	ph[i].to_arrows[influenced_artist] = both.arrow;
 }
 
 function hideEdges (i)
@@ -967,8 +1162,6 @@ function hideEdges (i)
 
 	ph[i].dot.attr({r: ph[i].pos.r, fill: colour}).attr("stroke-width", 2*pixel).attr("stroke", "#fff");
 }
-
-
 
 /*  LABELS  */
 
@@ -1050,9 +1243,6 @@ function hideLabel (i)
 	}
 }
 
-
-
-
 /*  DETAIL  */
 
 function showDetail(i)
@@ -1129,7 +1319,6 @@ function preloadImages()
 	}
 }
 
-
 /*  COLOUR MODIFICATION  */
 
 /*  from: http://matthaynes.net/blog/2008/08/07/javascript-colour-functions/  */
@@ -1164,8 +1353,6 @@ function intToHex(i) {
     var hex = parseInt(i).toString(16);  
     return (hex.length < 2) ? "0" + hex : hex;  
 }  
-
-
 
 /*  HELPERS  */
 
